@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Gaming Checklists
 remote_branch: gh-pages
 theme:
     name: readthedocs
@@ -10,3 +10,7 @@ extra_css:
     - custom.css
 extra_javascript:
     - checkbox_cookie.js
+nav:
+    - Home: index.md
+    - Games:
+        - Tales of Vesperia: checklists/tales_of_vesperia/index.md
