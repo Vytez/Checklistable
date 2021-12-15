@@ -1,6 +1,8 @@
 # Tales of Vesperia
-- All checklists targeted toward Definitive Edition (PC).
+- All checklists targeted toward Definitive Edition (PC). 
+- All checklists may contain spoilers.
 
 ## Checklists Index
-- [Missable Events Checklist](missable_events.md): Contains spoilers.
+- [Missable Events Checklist](missable_events.md)
 - [Cooking Recipes Checklist](cooking_recipes.md)
+- [Artes Checklist](artes.md)
