@@ -1,0 +1,12 @@
+site_name: My Docs
+remote_branch: gh-pages
+theme:
+    name: readthedocs
+    custom_dir: theme_customization
+markdown_extensions:
+    - markdown_checklists.extension
+    - pymdownx.tilde
+extra_css:
+    - custom.css
+extra_javascript:
+    - checkbox_cookie.js
