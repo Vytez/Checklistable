@@ -1,24 +1,19 @@
+.task-list-item {
+	list-style-type: none !important;
+}
+
 .task-list-item input[type="checkbox"] {
 	vertical-align: middle;
+	transform: scale(1.15);
+	margin-left: -20px;
 }
 
 label {
 	display: inline;
+	font-size: 110%;
 }
 
-/*.task-list-item {
-  list-style-type: none !important;
-}
-
-	margin: 0 4px 0.25em -20px;
-
-
-label {
-    display: inline;
-	color: #333;
-	font-size: 100%;
-}
-
+/*
 .toctree-expand {
     line-height: 1.6;
     position: relative;
