@@ -1,4 +1,4 @@
-.task-list-item {
+/*.task-list-item {
   list-style-type: none !important;
 }
 
@@ -16,5 +16,5 @@ label {
 .toctree-expand {
     line-height: 1.6;
     position: relative;
-    /*left: -1.1em;*/
-}
+    left: -1.1em;
+}*/

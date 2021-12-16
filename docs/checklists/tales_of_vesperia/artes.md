@@ -1,5 +1,5 @@
 # Tales of Vesperia
-- Source: [How to Unlock All Cooking Recipes](https://steamcommunity.com/sharedfiles/filedetails/?id=1621018067)
+- Source: [Tales of Vesperia Reference Guide - Artes](https://hyouta.com/vesperia/?section=artes)
 
 ## Table of Contents
 - [Yuri](#yuri)
@@ -50,6 +50,7 @@
 - [ ] Divine Wolf - Crush (Divine Wolf): Athenor, Crucible
 - [ ] Divine Wolf - Storm (Divine Wolf): Gale, Alembic
 - [ ] Divine Wolf - Flood (Divine Wolf): Great Deluge, Dispersion
+- [ ] Savage Wolf Fury: Special (Mystic Arte)
 
 ### Source: Event/Sidequest
 - [ ] Tiger Blade
@@ -57,10 +58,9 @@
 - [ ] Final Gale
 - [ ] Divine Wolf
 
-### Source: Unknown
-- [ ] Savage Wolf Fury
-- [ ] Heavenly Bladewing
-- [ ] Twin Wave
+### Source: Other
+- [ ] Twin Wave: Mystic Arte, combination with Flynn
+- [ ] Heavenly Bladewing: Mystic Arte, only available from 2nd playthrough on
 
 ## Estelle
 ### Source: Level
