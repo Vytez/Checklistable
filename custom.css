@@ -2,6 +2,10 @@
 	vertical-align: middle;
 }
 
+label {
+	display: inline;
+}
+
 /*.task-list-item {
   list-style-type: none !important;
 }
