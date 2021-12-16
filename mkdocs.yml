@@ -1,15 +1,19 @@
 site_name: Gaming Checklists
+repo_url: https://github.com/Vytez/gamingchecklists
 remote_branch: gh-pages
+edit_uri: blob/main/docs/
 theme:
-    name: readthedocs
-    custom_dir: theme_customization
+    name: null
+    custom_dir: cinder
+    disable_nav_previous_next: true
+    disable_footer: true
 markdown_extensions:
     - markdown_checklists.extension
     - pymdownx.tilde
 extra_css:
-    - custom.css
+    - "css/custom.css"
 extra_javascript:
-    - checkbox_cookie.js
+    - "js/checkbox_cookie.js"
 nav:
     - Home: index.md
     - Games:
