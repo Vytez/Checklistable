@@ -8,9 +8,13 @@
 	margin-left: -20px;
 }
 
+.wy-nav-content {
+	max-width: none;
+}
+
 label {
 	display: inline;
-	font-size: 110%;
+	font-size: 100%;
 }
 
 /*
