@@ -1,11 +1,13 @@
+.task-list-item input[type="checkbox"] {
+	vertical-align: middle;
+}
+
 /*.task-list-item {
   list-style-type: none !important;
 }
 
-.task-list-item input[type="checkbox"] {
-  margin: 0 4px 0.25em -20px;
-  vertical-align: middle;
-}
+	margin: 0 4px 0.25em -20px;
+
 
 label {
     display: inline;
