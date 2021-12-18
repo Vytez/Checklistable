@@ -9,18 +9,20 @@
             value = String(value);
             window.localStorage.setItem(key, value);
         }
-        // If key only is given (no value), return value of local storage, if exists.
-        else{
-            window.localStorage.getItem(key);
-        }
     };
+})(jQuery);
+
+(function ($) {
+    $.retrieveCheckboxState = function(key) {
+        return(window.localStorage.getItem(key))
+    }
 })(jQuery);
 
 $(document).ready(function () {
     var checkbox = $('.task-list-item').find(':checkbox'), checkboxLocalStorageName = 'checkbox-state';
 
     checkbox.each(function () {
-        $(this).attr('checked', $.storeCheckboxState(checkboxLocalStorageName + '|' + $(this).attr('id')));
+        $(this).attr('checked', $.retrieveCheckboxState(checkboxLocalStorageName + '|' + $(this).attr('id')));
     });
 
     checkbox.click(function () {
