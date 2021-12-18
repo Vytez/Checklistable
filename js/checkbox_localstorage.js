@@ -14,7 +14,7 @@
 
 (function ($) {
     $.retrieveCheckboxState = function(key) {
-        return(window.localStorage.getItem(key))
+        return(window.localStorage.getItem(key) === 'true')
     }
 })(jQuery);
 
