@@ -14,7 +14,7 @@
 
 (function ($) {
     $.retrieveCheckboxState = function(key) {
-        return(window.localStorage.getItem(key) === 'true')
+        return(window.localStorage.getItem(key))
     }
 })(jQuery);
 
@@ -22,7 +22,7 @@ $(document).ready(function () {
     var checkbox = $('.task-list-item').find(':checkbox'), checkboxLocalStorageName = 'checkbox-state';
 
     checkbox.each(function () {
-        $(this).prop('checked', $.retrieveCheckboxState(checkboxLocalStorageName + '|' + $(this).attr('id')));
+        $(this).attr('checked', $.retrieveCheckboxState(checkboxLocalStorageName + '|' + $(this).attr('id')));
     });
 
     checkbox.click(function () {
