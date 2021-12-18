@@ -111,25 +111,34 @@ After Estelle rejoins:
 - [ ] Enter the Shaikos Ruins (Truth Of Ruin's Gate Part 1).
 
 ### After Mt. Temza
-- [ ] In Mantaic, go north to find the Dispatcher. Talk to Yu near the inn to get **Book of Friendship** and **Comrade Crest**. Go to the inn in Capua Torim and speak to Nobis to get **Rainbow Bookmark**. Report back to Yu in Mantaic for 3,000 Gald (Guild Quest Part 1).
-- [ ] If you have done (Bug Hater), go to Mantaic to rest at the inn and pick **Yes** (Portrait Of Nan).
-- [ ] In Mantaic, hand over Trident for Rice, Potato, Onion and Carrot (Cow Boy Part 2).
-- [ ] In Mantaic, go north and speak with Clay. Sleep at the inn and go north (Dark Enforcer Part 4).
-- [ ] In Nordopolica, head towards the entrance to the Colosseum (Truth Of Ruin's Gate Final Part).
-- [ ] In Nordopolica, head towards the Arena and speak with Natts (After The Death Of Belius).
-- [ ] In Nordopolica, the Arena is now open. Clear 30 Man, 50 Man and 80 Man melee (Arena Part 1).
-- [ ] In Nordopolica, if you have cooked 600 times and Patty has three recipes **mastered**, talk to the person to the right of the shop.
-- [ ] In Ehmead Hill, go toward the grave on the cliff to find Duke (Elucifer's Grave Final Part).
-- [ ] Enter Ehmead Hill from the western entrance/exit. Go north, east and north to get the Fire Lily (Avenging Soldiers Part 1).
-- [ ] Enter Ehmead Hill from the eastern entrance/exit. Go toward the blastia that is blocking the main road. Head to Aspio and check the bookshelf in the library for **Hermes' Notes**. Go to Capua Torim and rest at the inn to learn **Negative Gate**. If you miss this (because you are doing this later in the game), you can instead get **Hermes' Memo** from a mage in the inn of Capua Torim (Study Of Hermes Part 1).
+#### Mantaic
+- [ ] Go north to find the Dispatcher. Talk to Yu near the inn to get **Book of Friendship** and **Comrade Crest**. Go to the inn in Capua Torim and speak to Nobis to get **Rainbow Bookmark**. Report back to Yu in Mantaic for 3,000 Gald (Guild Quest Part 1).
+- [ ] If you have done (Bug Hater), rest at the inn in Mantaic and pick **Yes** (Portrait Of Nan).
+- [ ] Talk to the Cow Boy and hand over Trident for Rice, Potato, Onion and Carrot (Cow Boy Part 2).
+- [ ] Go north and speak with Clay. Sleep at the inn and go north (Dark Enforcer Part 4).  
+
+#### Nordopolica
+- [ ] Head towards the entrance to the Colosseum (Truth Of Ruin's Gate Final Part).
+- [ ] Head towards the Arena and speak with Natts (After The Death Of Belius).
+- [ ] The Arena is now open. Clear 30 Man, 50 Man and 80 Man melee (Arena Part 1).
+- [ ] If you have cooked 600 times and Patty has three recipes **mastered**, talk to the person to the right of the shop.  
+
+#### Ehmead Hill
+- [ ] Go toward the grave on the cliff to find Duke (Elucifer's Grave Final Part).
+- [ ] Enter from the western entrance/exit. Go north, east and north to get the Fire Lily (Avenging Soldiers Part 1).
+- [ ] Enter from the eastern entrance/exit. Go toward the blastia that is blocking the main road. Head to Aspio and check the bookshelf in the library for **Hermes' Notes**. Go to Capua Torim and rest at the inn to learn **Negative Gate**. If you miss this (because you are doing this later in the game), you can instead get **Hermes' Memo** from a mage in the inn of Capua Torim (Study Of Hermes Part 1).  
+
+#### Capua Nor/Torim
 - [ ] In Capua Nor, you can find Nan if you have ***completed 50% of the Monster Book*** (Monster Book Part 1).
 - [ ] In Capua Torim, to the right of the Fortune's Market HQ. Speak with the woman by the tree (The Dragoon Final Part).
-- [ ] In Capua Torim, speak with Kaufman in the Fortune's Market HQ. Go to Dahngrest and enter the right shop to speak with the owner (Brionac Part 3).
-- [ ] In Dahngrest, enter the western bar. Exit out and talk to the girl that is at the center of the town. Enter the eastern bar, then exit and talk to another girl. Head toward the Union HQ to get Raven's **Ladies' Man** title (Ladies' Man).
-- [ ] In Dahngrest, enter the western bar and talk to Sassoon at the upper left corner. You can get various Attachment/Title based on what you have. Be sure to check out with her frequently.
-- [ ] In Dahngrest, go to the Union HQ and go find Kaufman in the Fortune's Market in Capua Torim (Rebuilding The Union Part 1).
-- [ ] In Dahngrest, enter the western bar and speak with the right bartender. Go to the inn to speak with Rhianna. Exit out and go toward the lower right bridge. Go to Heliord and head down to the lower section to talk to a girl. Trade **Bird Feather (Small)** for the **Everlight Necklace**. Report back to Rhianna at the inn of Dahngrest (Guild Quest Part 2).
-- [ ] In Dahngrest, enter the western bar and speak with the middle bartender. Clear all three levels with everyone except Yuri, Patty and Repede for the **Waiter/Waitress** series titles. When you play the Waiter/Waitress Game at latter part of the game, you can win more gald (Waiter/Waitress Game).
+- [ ] In Capua Torim, speak with Kaufman in the Fortune's Market HQ. Go to Dahngrest and enter the right shop to speak with the owner (Brionac Part 3).  
+
+#### Dahngrest
+- [ ] Enter the western bar. Exit out and talk to the girl that is at the center of the town. Enter the eastern bar, then exit and talk to another girl. Head toward the Union HQ to get Raven's **Ladies' Man** title (Ladies' Man).
+- [ ] Enter the western bar and talk to Sassoon at the upper left corner. You can get various Attachment/Title based on what you have. Be sure to check out with her frequently.
+- [ ] Go to the Union HQ to trigger a scene. Then go find Kaufman in the Fortune's Market HQ in Capua Torim (Rebuilding The Union Part 1).
+- [ ] Enter the western bar and speak with the right bartender. Go to the inn to speak with Rhianna. Exit out and go toward the lower right bridge. Go to Heliord and head down to the lower section to talk to a girl. Trade **Bird Feather (Small)** for the **Everlight Necklace**. Report back to Rhianna at the inn of Dahngrest (Guild Quest Part 2).
+- [ ] Enter the western bar and speak with the middle bartender. Clear all three levels with everyone except Yuri, Patty and Repede for the **Waiter/Waitress** series titles. When you play the Waiter/Waitress Game at latter part of the game, you can win more gald (Waiter/Waitress Game).
 
 ### After Meeting Phaeroh
 - [ ] To get the **Guide Bell to Myorzo**, you need to go to Renansula Hollow after revisiting Aspio and speak with Tort as Judith.

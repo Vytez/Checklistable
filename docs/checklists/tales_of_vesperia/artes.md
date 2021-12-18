@@ -167,28 +167,28 @@
 ## Rita
 ### Source: Level
 - [ ] Fire Ball (1)
-- [ ] Beta'x'Psi'='Check (5)
+- [ ] &beta;x&Psi;=&radic; (5)
 - [ ] Stone Blast (8)
 - [ ] Champagne (14)
-- [ ] Xi'x'Psi'='Phi (16)
+- [ ] &xi;x&Psi;=&Phi; (16)
 - [ ] Splash (16)
 - [ ] Spread Zero (18)
-- [ ] Xi'='Delta'Tau'(Omega'Rho) (22)
+- [ ] &xi;=&delta;&tau;(&omega;&rho;) (22)
 - [ ] Stalagmite (24)
-- [ ] Angle'='(x,y,z) (26)
+- [ ] &angle;=(x,y,z) (26)
 - [ ] Tractor Beam (28)
-- [ ] Angle'='Infinity (30)
+- [ ] &angle;=&infin; (30)
 - [ ] Spiral Flare (32)
-- [ ] (Delta'/'Xi)'Lambda'='Iota (38)
+- [ ] (&delta;/&chi;)&lambda;=&iota; (38)
 - [ ] Blade Roll (36)
 - [ ] Violent Pain (41)
 - [ ] Ground Dasher (46)
 - [ ] Tidal Wave (52)
 
 ### Source: Skills (Altered Artes)
-- [ ] Integral(Triangle) = Sum(Omega'Pi) (Xi x Psi = Phi): Chain
-- [ ] Angle = (r, theta, phi) (Angle = (x,y,z)): Crucible
-- [ ] A = lk{lambda'epsilon'Delta} ((Delta'/'Xi)'Lambda'='Iota): Hell Fire
+- [ ] &int;&nabla;=&Sigma;(&omega;&pi;) (&xi;x&Psi;=&Phi;): Chain
+- [ ] &angle; = (r, &theta;, &phi;) (&angle;=(x,y,z)): Crucible
+- [ ] A = lk{&lambda;&epsilon;&Delta;} ((&delta;/&chi;)&lambda;=&iota;): Hell Fire
 - [ ] Eruption (Fire Ball): Crucible
 - [ ] Ivy Rush (Stone Blast): Great Deluge
 - [ ] Demon's Lance (Spread Zero): Alembic
@@ -217,7 +217,7 @@
 ## Raven
 ### Source: Level
 - [ ] Rain (1)
-- [ ] Wind Blade (8)==
+- [ ] Wind Blade (8)
 - [ ] Bouquet (15)
 - [ ] Serpent (21)
 - [ ] Just Like Dancing (23)
@@ -369,7 +369,7 @@
 - [ ] Little Big Chef (24)
 - [ ] Clunky Bomb (28)
 - [ ] Risky Bet (31)
-- [ ] Fancy Elements (43)
+- [ ] Fancy Elements (34)
 - [ ] Random Fall (36)
 - [ ] Severed Fate (39)
 - [ ] Welcome Dish (42)
