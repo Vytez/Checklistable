@@ -45,7 +45,6 @@
 - [ ] Pyre Havoc (Wailing Havoc): Hell Fire
 - [ ] Lone Wolf Storm (Lone Wolf Charge): Gale
 - [ ] Frigid Blast (Final Gale): Great Deluge
-- [ ] Demon Attack (Wolf Strike): Legacy Costume Skill (Yuri)
 - [ ] Divine Wolf - Blaze (Divine Wolf): Hell Fire, Chain
 - [ ] Divine Wolf - Crush (Divine Wolf): Athenor, Crucible
 - [ ] Divine Wolf - Storm (Divine Wolf): Gale, Alembic
@@ -99,7 +98,6 @@
 - [ ] Regenerate (Resurrection): Dispersion, Alembic
 - [ ] Nightingale (Nurse): Crucible
 - [ ] Holy Rain (Holy Lance): Great Deluge
-- [ ] Phantom Blade (Marche Waltz): Legacy Costume Skill (Estelle)
 - [ ] Star Sign - Flame (Extreme Stars): Hell Fire, Chain
 - [ ] Star Sign - Geo (Extreme Stars): Athenor, Crucible
 - [ ] Star Sign - Gale (Extreme Stars): Gale, Alembic
@@ -149,7 +147,6 @@
 - [ ] Destructo Booing Festival (Destructo Booing): Dispersion
 - [ ] Diablo Hyper Buster (Reaper Knock): Crucible
 - [ ] Death Quake Spark (Ultimate Divine Destruction): Athenor
-- [ ] Blazing Tempest (Roaring Revolution): Legacy Costume Skill (Karol)
 - [ ] Ultra Punishing Heat (Ultra Punishing Swing): Hell Fire, Chain
 - [ ] Ultra Punishing Crush (Ultra Punishing Swing): Athenor, Crucible
 - [ ] Ultra Punishing Typhoon (Ultra Punishing Swing): Gale, Alembic
@@ -199,7 +196,6 @@
 - [ ] Flame Dragon (Spiral Flare): Alembic, Crucible
 - [ ] Bloody Howling (Violent Pain): Dispersion, Crucible
 - [ ] Thunder Blade (Blade Roll): Hell Fire, Gale
-- [ ] Burning Strike (Negative Gate): Legacy Costume Skill (Rita)
 - [ ] Raging Drive (Mystic Drive): Hell Fire, Chain
 - [ ] Ruinous Drive (Mystic Drive): Athenor, Crucible
 - [ ] Fleeting Drive (Mystic Drive): Gale, Alembic
@@ -245,7 +241,6 @@
 - [ ] Cloud of Heaven's Tears (Heaven's Tear): Alembic, Crucible
 - [ ] Falling Further (Falling): Athenor, Crucible
 - [ ] The Growing World (Falling Stars): Dispersion
-- [ ] Elemental Master (Dark Chase): Legacy Costume Skill (Raven)
 - [ ] Air Thrust (Wind Blade): Athenor
 - [ ] Inverno (Arrivederci): Great Deluge
 - [ ] Tempest (Havoc Gale): Hell Fire, Crucible
@@ -298,7 +293,6 @@
 - [ ] Moonbeam - Bird (Moonbeam): Hell Fire
 - [ ] Thunder Moon (Luna Crush): Hell Fire, Gale
 - [ ] Luna Storm (Luna Havoc): Hell Fire, Alembic
-- [ ] Bloody Rose (Luna Ascendent): Legacy Costume Skill (Judith)
 - [ ] Conflagration Blast (Ashen Moonlight): Hell Fire, Chain
 - [ ] Crushing Grave (Ashen Moonlight): Athenor, Crucible
 - [ ] Quasi Seal (Ashen Moonlight): Alembic, Gale
@@ -346,7 +340,6 @@
 - [ ] Victory Light Spear (Light Spear): Athenor
 - [ ] Shadow Fang Weave (Shadow Fang Punishment): Gale
 - [ ] Phantom Glacier (Phantom Fang): Great Deluge, Gale
-- [ ] Beastly Blow (Light Spear): Legacy Costume Skill (Repede)
 - [ ] Divine Dog - Blaze (Divine Dog): Hell Fire, Chain
 - [ ] Divine Dog - Tremble (Divine Dog): Athenor, Crucible
 - [ ] Divine Dog - Savage (Divine Dog): Alembic, Gale
@@ -387,7 +380,6 @@
 - [ ] Fatal Triangle (Severed Fate): Gale
 - [ ] Big Risk (Risky Cast): Dispersion
 - [ ] Mahjong (Card Gamble): Athenor
-- [ ] Happy Light (Fancy Elements): Legacy Costume Skill (Patty)
 - [ ] Volcanic Blast (Glittery Rain): Hell Fire, Chain
 - [ ] Grand Blow (Glittery Rain): Athenor, Crucible
 - [ ] Windy Rage (Glittery Rain): Alembic, Gale
@@ -430,7 +422,6 @@
 - [ ] Sword Rain: Alpha (Sword Rain): Alembic, Chain
 - [ ] Cure (Fird Aid): Great Deluge
 - [ ] Mmistral Soul (Luminant Scythe): Gale
-- [ ] Distortion Blade (Severing Blade): Legacy Costume Skill (Flynn)
 - [ ] Blazing Pillar Smash - Fiery Lion (Blazing Pillar Smash): Hell Fire, Chain
 - [ ] Blazing Pillar Smash - Earthquaker (Blazing Pillar Smash): Athenor, Crucible
 - [ ] Blazing Pillar Smash - Tornado Cutter (Blazing Pillar Smash): Gale, Alembic
