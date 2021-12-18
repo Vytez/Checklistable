@@ -4,8 +4,13 @@
 
 .task-list-item input[type="checkbox"] {
 	vertical-align: middle;
-	transform: scale(1.15);
-	margin-left: -20px;
+	transform: scale(1.25);
+	margin-left: -25px;
+	margin-right: 5px;
+}
+
+.task-list-item input[type="checkbox"] + label {
+	cursor: pointer;
 }
 
 label {
@@ -13,10 +18,3 @@ label {
 	font-size: 100%;
 	vertical-align: middle;
 }
-
-/*
-.toctree-expand {
-    line-height: 1.6;
-    position: relative;
-    left: -1.1em;
-}*/
