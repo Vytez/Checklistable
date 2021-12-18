@@ -22,7 +22,7 @@ $(document).ready(function () {
     var checkbox = $('.task-list-item').find(':checkbox'), checkboxLocalStorageName = 'checkbox-state';
 
     checkbox.each(function () {
-        $(this).attr('checked', $.retrieveCheckboxState(checkboxLocalStorageName + '|' + $(this).attr('id')));
+        $(this).prop('checked', $.retrieveCheckboxState(checkboxLocalStorageName + '|' + $(this).attr('id')));
     });
 
     checkbox.click(function () {
