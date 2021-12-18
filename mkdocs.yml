@@ -12,8 +12,9 @@ markdown_extensions:
     - pymdownx.tilde
 extra_css:
     - "css/custom.css"
+    - "css/pretty-checkbox.min.css"
 extra_javascript:
-    - "js/checkbox_cookie.js"
+    - "js/checkbox_localstorage.js"
 nav:
     - Home: index.md
     - Games:
