@@ -140,24 +140,18 @@ After Estelle rejoins:
 - [ ] Enter the western bar and speak with the right bartender. Go to the inn to speak with Rhianna. Exit out and go toward the lower right bridge. Go to Heliord and head down to the lower section to talk to a girl. Trade **Bird Feather (Small)** for the **Everlight Necklace**. Report back to Rhianna at the inn of Dahngrest (Guild Quest Part 2).
 - [ ] Enter the western bar and speak with the middle bartender. Clear all three levels with everyone except Yuri, Patty and Repede for the **Waiter/Waitress** series titles. When you play the Waiter/Waitress Game at latter part of the game, you can win more gald (Waiter/Waitress Game).
 
-### After Meeting Phaeroh
-- [ ] To get the **Guide Bell to Myorzo**, you need to go to Renansula Hollow after revisiting Aspio and speak with Tort as Judith.
-
-### Renansula Hollow
-- [ ] Around the middle of the Hypionia Continent, look for a beach with red flowers.
-
 ### Myorzo
 - [ ] Arrange the warehouse for Hourglass, Dragoon Boots, Flare Stone, Freeze Stone, Aer Stone, Geo Stone, and 2,000 Gald as the reward (Tidy Up The Warehouse Part 3).
 - [ ] After Judith gets the **Guardian Of Truth** title, rest at the northeastern house (Entelexia).
 
 ### Yormgen
-- [ ] Flynn joins the party temporarily (PS3 and Definitive Edition).
+- [ ] Flynn joins the party temporarily.
 
 ### With Flynn in the Party
-- [ ] In Mantaic, go toward the west to get Flynn's **Mark of Knighthood** title (PS3 and Definitive Edition)
+- [ ] In Mantaic, go toward the west to get Flynn's **Mark of Knighthood** title.
 
 ### Baction
-- [ ] In the dark area, **_fall down three times**_ to get **Magic Lantern** (Magic Lantern)
+- [ ] In the dark area, *fall down three times* to get **Magic Lantern**.
 
 ### Before heading to Zaphias for Estelle
 - [ ] After the events at Halure and Quoi Woods, go to Deidon Hold and find Duke on the roof of the Chevaliers' Station (Duke Part 6)

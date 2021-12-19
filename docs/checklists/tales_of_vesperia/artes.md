@@ -3,6 +3,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Altered Artes Guide](#altered-artes))
 - [Yuri](#yuri)
 - [Estelle](#estelle)
 - [Karol](#karol)
@@ -26,6 +27,90 @@ Burst Artes are granted automatically through the story, and are only able to be
 - Water: Dispersion + Great Deluge
 
 Mystic Artes are a further tier of artes usable in over limit, and are granted automatically late in the story. Each character again has one Mystic Arte.
+
+## Altered Artes
+Altered artes are a specific set of artes that are learned by equipping certain skills. You can permanently learn these artes by using them a certain number of times (50x for magical artes, 100x for physical artes). There are eight skills that can be learned by each character that can contribute to altered artes.
+
+- Chain
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Hell Fire
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Alembic
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Gale
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Crucible
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Athenor
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Dispersion
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Great Deluge
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
 
 ## Yuri
 ### Source: Level
@@ -150,7 +235,7 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted a
 - [ ] Hellfire Breath (Bug Breath): Hell Fire
 - [ ] Twin Punishing Smash (Punishing Smash): Chain
 - [ ] Havoc Thunder (Havoc Break): Hell Fire, Gale
-- [ ] Hurricane Revolution (Roaring Revoluation): Gale
+- [ ] Hurricane Revolution (Roaring Revolution): Gale
 - [ ] Destructo Booing Festival (Destructo Booing): Dispersion
 - [ ] Diablo Hyper Buster (Reaper Knock): Crucible
 - [ ] Death Quake Spark (Ultimate Divine Destruction): Athenor
@@ -236,7 +321,7 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted a
 - [ ] Rain Down (Glimmer of Heaven): Gale
 - [ ] Around and Around (Around): Chain
 - [ ] Crimson Helix (Cyan Instant): Hell Fire
-- [ ] Rain of Heaven's Tears (Heaven's Tear): Gale
+- [ ] Rain of Heaven's Tears (Heaven's Tear): Gale, Chain
 - [ ] Cloud of Heaven's Tears (Heaven's Tear): Alembic, Crucible
 - [ ] Falling Further (Falling): Athenor, Crucible
 - [ ] The Growing World (Falling Stars): Dispersion
@@ -334,9 +419,9 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted a
 
 ### Source: Event/Sidequest
 - [ ] Shining Fang
+- [ ] Divine Dog: Burst Arte.
 
 ### Source: Unknown
-- [ ] Divine Dog
 - [ ] Slash!!
 - [ ] Lightning Flash
 
