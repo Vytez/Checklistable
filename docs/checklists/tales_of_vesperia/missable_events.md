@@ -157,6 +157,9 @@ After Estelle rejoins:
 ### Heracles
 - [ ] Monster Book entry: **Capiora**, a mimic treasure chest.
 
+### Blade Drifts of Zopheir
+- [ ] Monster Book entry: **Baitojoh**. Use a lens before and after the party rejoins for both entries.
+
 ### Before heading to Zaphias for Estelle
 - [ ] After the events at Halure and Quoi Woods, go to Deidon Hold and find Duke on the roof of the Chevaliers' Station (Duke Part 6)
 
