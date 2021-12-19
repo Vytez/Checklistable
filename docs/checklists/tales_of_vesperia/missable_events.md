@@ -9,6 +9,7 @@
 ## Act One
 ### Zaphias
 - [ ] Automatically obtain **Wonder Log** (Wonder Reporter Part 1).
+- [ ] Monster Book entries: **Adecor** and **Boccos** in tutorial fight. 
 
 ### World Map
 - [ ] Near Zaphias, you can find the travelers' inn, **King Of Adventure** (King Of Adventure Part 1).
@@ -152,6 +153,9 @@ After Estelle rejoins:
 
 ### Baction
 - [ ] In the dark area, *fall down three times* to get **Magic Lantern**.
+
+### Heracles
+- [ ] Monster Book entry: **Capiora**, a mimic treasure chest.
 
 ### Before heading to Zaphias for Estelle
 - [ ] After the events at Halure and Quoi Woods, go to Deidon Hold and find Duke on the roof of the Chevaliers' Station (Duke Part 6)
