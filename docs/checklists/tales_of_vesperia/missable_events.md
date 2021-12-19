@@ -160,8 +160,12 @@ After Estelle rejoins:
 ### Blade Drifts of Zopheir
 - [ ] Monster Book entry: **Baitojoh**. Use a lens before and after the party rejoins for both entries.
 
-### Before heading to Zaphias for Estelle
-- [ ] After the events at Halure and Quoi Woods, go to Deidon Hold and find Duke on the roof of the Chevaliers' Station (Duke Part 6)
+### On the way to Zaphias
+- [ ] After the events at Halure and Quoi Woods, go to Deidon Hold and find Duke on the roof of the Guard's Station (Duke Part 6).
+- [ ] Monster Book entries: **Wolf Aersick**, **Egg Bear Aersick**, **Axe Beak Aersick**, **Mandragora Aersick**, **Giant Bee Aersick**. Some of these may also be found once within Zaphias.
+
+### Zaphias
+- [ ] Monster Book entries: **Knight Fencer A**, **Knight Lancer A**, **High Knight Bishop**, **Estelle**.
 
 ### After Estelle Joins Back
 - [ ] When everyone joins back at Zaphias, Flynn joins the party temporarily (PS3 and Definitive Edition)
