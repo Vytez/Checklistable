@@ -2,6 +2,8 @@
 - Source: [Tales of Vesperia Reference Guide - Artes](https://hyouta.com/vesperia/?section=artes)
 
 ## Table of Contents
+- [Introduction](#introduction)
+- [Altered Artes Guide](#altered-artes))
 - [Yuri](#yuri)
 - [Estelle](#estelle)
 - [Karol](#karol)
@@ -11,6 +13,104 @@
 - [Repede](#repede)
 - [Patty](#patty)
 - [Flynn](#flynn)
+
+## Introduction
+Artes are physical and magical attacks that can be used in battle in addition to normal attacks. Some artes are learned automatically upon leveling up, others have special requirements that must be met before they can be learned.
+
+Altered artes are a specific set of artes that are learned by equipping certain skills. You can permanently learn these artes by using them a certain number of times (50x for magical artes, 100x for physical artes).
+
+Burst Artes are granted automatically through the story, and are only able to be used when in Over Limit. Each character has one Burst Arte, which starts off with no elemental effect. An elemental effect can be added to a Burst Arte by equipping a certain set of skills based on the element desired. These elemental versions of Burst Artes cannot be learned.
+
+- Fire: Chain + Hell Fire
+- Wind: Alembic + Gale
+- Earth: Crucible + Athenor
+- Water: Dispersion + Great Deluge
+
+Mystic Artes are a further tier of artes usable in over limit, and are granted automatically late in the story. Each character again has one Mystic Arte.
+
+## Altered Artes
+Altered artes are a specific set of artes that are learned by equipping certain skills. You can permanently learn these artes by using them a certain number of times (50x for magical artes, 100x for physical artes). There are eight skills that can be learned by each character that can contribute to altered artes.
+
+- Chain
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Hell Fire
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Alembic
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Gale
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Crucible
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Athenor
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Dispersion
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
+- Great Deluge
+	- [ ] Yuri: 
+	- [ ] Estelle:
+	- [ ] Karol:
+	- [ ] Rita:
+	- [ ] Raven:
+	- [ ] Judith:
+	- [ ] Repede:
+	- [ ] Patty:
+	- [ ] Flynn:
 
 ## Yuri
 ### Source: Level
@@ -45,17 +145,13 @@
 - [ ] Pyre Havoc (Wailing Havoc): Hell Fire
 - [ ] Lone Wolf Storm (Lone Wolf Charge): Gale
 - [ ] Frigid Blast (Final Gale): Great Deluge
-- [ ] Divine Wolf - Blaze (Divine Wolf): Hell Fire, Chain
-- [ ] Divine Wolf - Crush (Divine Wolf): Athenor, Crucible
-- [ ] Divine Wolf - Storm (Divine Wolf): Gale, Alembic
-- [ ] Divine Wolf - Flood (Divine Wolf): Great Deluge, Dispersion
-- [ ] Savage Wolf Fury: Special (Mystic Arte)
 
 ### Source: Event/Sidequest
-- [ ] Tiger Blade
-- [ ] Shining Eagle
-- [ ] Final Gale
-- [ ] Divine Wolf
+- [ ] Tiger Blade: After getting the Fiertia.
+- [ ] Shining Eagle: After first arriving in Nordopolica.
+- [ ] Final Gale: After Aurnion.
+- [ ] Divine Wolf: Burst Arte.
+- [ ] Savage Wolf Fury: Mystic Arte.
 
 ### Source: Other
 - [ ] Twin Wave: Mystic Arte, combination with Flynn
@@ -98,10 +194,6 @@
 - [ ] Regenerate (Resurrection): Dispersion, Alembic
 - [ ] Nightingale (Nurse): Crucible
 - [ ] Holy Rain (Holy Lance): Great Deluge
-- [ ] Star Sign - Flame (Extreme Stars): Hell Fire, Chain
-- [ ] Star Sign - Geo (Extreme Stars): Athenor, Crucible
-- [ ] Star Sign - Gale (Extreme Stars): Gale, Alembic
-- [ ] Star Sign - Aqua (Extreme Stars): Great Deluge, Dispersion
 
 ### Source: Event/Sidequest
 - [ ] Astion
@@ -143,14 +235,10 @@
 - [ ] Hellfire Breath (Bug Breath): Hell Fire
 - [ ] Twin Punishing Smash (Punishing Smash): Chain
 - [ ] Havoc Thunder (Havoc Break): Hell Fire, Gale
-- [ ] Hurricane Revolution (Roaring Revoluation): Gale
+- [ ] Hurricane Revolution (Roaring Revolution): Gale
 - [ ] Destructo Booing Festival (Destructo Booing): Dispersion
 - [ ] Diablo Hyper Buster (Reaper Knock): Crucible
 - [ ] Death Quake Spark (Ultimate Divine Destruction): Athenor
-- [ ] Ultra Punishing Heat (Ultra Punishing Swing): Hell Fire, Chain
-- [ ] Ultra Punishing Crush (Ultra Punishing Swing): Athenor, Crucible
-- [ ] Ultra Punishing Typhoon (Ultra Punishing Swing): Gale, Alembic
-- [ ] Ultra Punishing Soul (Ultra Punishing Swing): Great Deluge, Dispersion
 
 ### Source: Event/Sidequest
 - [ ] Bug Breath
@@ -164,28 +252,28 @@
 ## Rita
 ### Source: Level
 - [ ] Fire Ball (1)
-- [ ] Beta'x'Psi'='Check (5)
+- [ ] &beta;x&Psi;=&radic; (5)
 - [ ] Stone Blast (8)
 - [ ] Champagne (14)
-- [ ] Xi'x'Psi'='Phi (16)
+- [ ] &xi;x&Psi;=&Phi; (16)
 - [ ] Splash (16)
 - [ ] Spread Zero (18)
-- [ ] Xi'='Delta'Tau'(Omega'Rho) (22)
+- [ ] &xi;=&delta;&tau;(&omega;&rho;) (22)
 - [ ] Stalagmite (24)
-- [ ] Angle'='(x,y,z) (26)
+- [ ] &angle;=(x,y,z) (26)
 - [ ] Tractor Beam (28)
-- [ ] Angle'='Infinity (30)
+- [ ] &angle;=&infin; (30)
 - [ ] Spiral Flare (32)
-- [ ] (Delta'/'Xi)'Lambda'='Iota (38)
+- [ ] (&delta;/&chi;)&lambda;=&iota; (38)
 - [ ] Blade Roll (36)
 - [ ] Violent Pain (41)
 - [ ] Ground Dasher (46)
 - [ ] Tidal Wave (52)
 
 ### Source: Skills (Altered Artes)
-- [ ] Integral(Triangle) = Sum(Omega'Pi) (Xi x Psi = Phi): Chain
-- [ ] Angle = (r, theta, phi) (Angle = (x,y,z)): Crucible
-- [ ] A = lk{lambda'epsilon'Delta} ((Delta'/'Xi)'Lambda'='Iota): Hell Fire
+- [ ] &int;&nabla;=&Sigma;(&omega;&pi;) (&xi;x&Psi;=&Phi;): Chain
+- [ ] &angle; = (r, &theta;, &phi;) (&angle;=(x,y,z)): Crucible
+- [ ] A = lk{&lambda;&epsilon;&Delta;} ((&delta;/&chi;)&lambda;=&iota;): Hell Fire
 - [ ] Eruption (Fire Ball): Crucible
 - [ ] Ivy Rush (Stone Blast): Great Deluge
 - [ ] Demon's Lance (Spread Zero): Alembic
@@ -196,10 +284,6 @@
 - [ ] Flame Dragon (Spiral Flare): Alembic, Crucible
 - [ ] Bloody Howling (Violent Pain): Dispersion, Crucible
 - [ ] Thunder Blade (Blade Roll): Hell Fire, Gale
-- [ ] Raging Drive (Mystic Drive): Hell Fire, Chain
-- [ ] Ruinous Drive (Mystic Drive): Athenor, Crucible
-- [ ] Fleeting Drive (Mystic Drive): Gale, Alembic
-- [ ] Diffusional Drive (Mystic Drive): Great Deluge, Dispersion
 
 ### Source: Event/Sidequest
 - [ ] Negative Gate
@@ -213,7 +297,7 @@
 ## Raven
 ### Source: Level
 - [ ] Rain (1)
-- [ ] Wind Blade (8)==
+- [ ] Wind Blade (8)
 - [ ] Bouquet (15)
 - [ ] Serpent (21)
 - [ ] Just Like Dancing (23)
@@ -237,7 +321,7 @@
 - [ ] Rain Down (Glimmer of Heaven): Gale
 - [ ] Around and Around (Around): Chain
 - [ ] Crimson Helix (Cyan Instant): Hell Fire
-- [ ] Rain of Heaven's Tears (Heaven's Tear): Gale
+- [ ] Rain of Heaven's Tears (Heaven's Tear): Gale, Chain
 - [ ] Cloud of Heaven's Tears (Heaven's Tear): Alembic, Crucible
 - [ ] Falling Further (Falling): Athenor, Crucible
 - [ ] The Growing World (Falling Stars): Dispersion
@@ -245,10 +329,6 @@
 - [ ] Inverno (Arrivederci): Great Deluge
 - [ ] Tempest (Havoc Gale): Hell Fire, Crucible
 - [ ] Stop Flow (Vanji Lost): Hell Fire, Athenor, Gale, Great Deluge
-- [ ] Chaotic Fury (Fury Blast): Hell Fire, Chain
-- [ ] Garnet Chaos (Fury Blast): Athenor, Crucible
-- [ ] Kamikaze Fury (Fury Blast): Alembic, Gale
-- [ ] Storm of Chaos (Fury Blast): Great Deluge, Dispersion
 
 ### Source: Event/Sidequest
 - [ ] Arrivederci
@@ -293,10 +373,6 @@
 - [ ] Moonbeam - Bird (Moonbeam): Hell Fire
 - [ ] Thunder Moon (Luna Crush): Hell Fire, Gale
 - [ ] Luna Storm (Luna Havoc): Hell Fire, Alembic
-- [ ] Conflagration Blast (Ashen Moonlight): Hell Fire, Chain
-- [ ] Crushing Grave (Ashen Moonlight): Athenor, Crucible
-- [ ] Quasi Seal (Ashen Moonlight): Alembic, Gale
-- [ ] Midnight Flood (Ashen Moonlight): Great Deluge, Dispersion
 
 ### Source: Event/Sidequest
 - [ ] Moonlight Talon
@@ -340,16 +416,12 @@
 - [ ] Victory Light Spear (Light Spear): Athenor
 - [ ] Shadow Fang Weave (Shadow Fang Punishment): Gale
 - [ ] Phantom Glacier (Phantom Fang): Great Deluge, Gale
-- [ ] Divine Dog - Blaze (Divine Dog): Hell Fire, Chain
-- [ ] Divine Dog - Tremble (Divine Dog): Athenor, Crucible
-- [ ] Divine Dog - Savage (Divine Dog): Alembic, Gale
-- [ ] Divine Dog - Whirlpool (Divine Dog): Great Deluge, Dispersion
 
 ### Source: Event/Sidequest
 - [ ] Shining Fang
+- [ ] Divine Dog: Burst Arte.
 
 ### Source: Unknown
-- [ ] Divine Dog
 - [ ] Slash!!
 - [ ] Lightning Flash
 
@@ -362,7 +434,7 @@
 - [ ] Little Big Chef (24)
 - [ ] Clunky Bomb (28)
 - [ ] Risky Bet (31)
-- [ ] Fancy Elements (43)
+- [ ] Fancy Elements (34)
 - [ ] Random Fall (36)
 - [ ] Severed Fate (39)
 - [ ] Welcome Dish (42)
@@ -380,10 +452,6 @@
 - [ ] Fatal Triangle (Severed Fate): Gale
 - [ ] Big Risk (Risky Cast): Dispersion
 - [ ] Mahjong (Card Gamble): Athenor
-- [ ] Volcanic Blast (Glittery Rain): Hell Fire, Chain
-- [ ] Grand Blow (Glittery Rain): Athenor, Crucible
-- [ ] Windy Rage (Glittery Rain): Alembic, Gale
-- [ ] Hydraulic Raid (Glittery Rain): Great Deluge, Dispersion
 
 ### Source: Event/Sidequest
 - [ ] Search Gald
@@ -422,10 +490,6 @@
 - [ ] Sword Rain: Alpha (Sword Rain): Alembic, Chain
 - [ ] Cure (Fird Aid): Great Deluge
 - [ ] Mmistral Soul (Luminant Scythe): Gale
-- [ ] Blazing Pillar Smash - Fiery Lion (Blazing Pillar Smash): Hell Fire, Chain
-- [ ] Blazing Pillar Smash - Earthquaker (Blazing Pillar Smash): Athenor, Crucible
-- [ ] Blazing Pillar Smash - Tornado Cutter (Blazing Pillar Smash): Gale, Alembic
-- [ ] Blazing Pillar Smash - Bubble Bomber (Blazing Pillar Smash): Great Deluge, Dispersion
 
 ### Source: Event/Sidequest
 - [ ] Dazzling Spin
