@@ -165,10 +165,9 @@ After Estelle rejoins:
 - [ ] Monster Book entries: **Wolf Aersick**, **Egg Bear Aersick**, **Axe Beak Aersick**, **Mandragora Aersick**, **Giant Bee Aersick**. Some of these may also be found once within Zaphias.
 
 ### Zaphias
-- [ ] Monster Book entries: **Knight Fencer A**, **Knight Lancer A**, **High Knight Bishop**, **Guilty Murder**, **Trans Murder**, **Estelle**.
+- [ ] Monster Book entries: **Knight Fencer A**, **Knight Lancer A**, **High Knight Bishop**, **Guilty Murder**, **Trans Murder**, **Estelle** (twice!).
 
 ### After Estelle Joins Back
-- [ ] When everyone joins back at Zaphias, Flynn joins the party temporarily (PS3 and Definitive Edition)
 - [ ] In Mt Temza, head up for **Compact of Remembrance** (Avenging Soldiers Part 2)
 - [ ] In Phaeroh's Crag, approach the **Phantom Rift**. Within Yormgen, speak with the Sage within the NW house and choose to rest when prompted (Extra Dungeon Part 1)
 - [ ] At the NW of the World Map, you can find **Yumanju** at the further north of Mt Temza. Speak with the Receptionist and that is it for now. In the meantime, prepare 900000 Gald (Hotspring Part 1)
