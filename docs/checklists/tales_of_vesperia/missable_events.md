@@ -165,7 +165,7 @@ After Estelle rejoins:
 - [ ] Monster Book entries: **Wolf Aersick**, **Egg Bear Aersick**, **Axe Beak Aersick**, **Mandragora Aersick**, **Giant Bee Aersick**. Some of these may also be found once within Zaphias.
 
 ### Zaphias
-- [ ] Monster Book entries: **Knight Fencer A**, **Knight Lancer A**, **High Knight Bishop**, **Estelle**.
+- [ ] Monster Book entries: **Knight Fencer A**, **Knight Lancer A**, **High Knight Bishop**, **Guilty Murder**, **Trans Murder**, **Estelle**.
 
 ### After Estelle Joins Back
 - [ ] When everyone joins back at Zaphias, Flynn joins the party temporarily (PS3 and Definitive Edition)
