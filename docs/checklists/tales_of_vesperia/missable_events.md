@@ -168,8 +168,8 @@ After Estelle rejoins:
 - [ ] Monster Book entries: **Knight Fencer A**, **Knight Lancer A**, **High Knight Bishop**, **Guilty Murder**, **Trans Murder**, **Estelle** (twice!).
 
 ### After Estelle Joins Back
-- [ ] In Mt Temza, head up for **Compact of Remembrance** (Avenging Soldiers Part 2)
-- [ ] In Phaeroh's Crag, approach the **Phantom Rift**. Within Yormgen, speak with the Sage within the NW house and choose to rest when prompted (Extra Dungeon Part 1)
+- [ ] In Mt. Temza, head up for **Compact of Remembrance** (Avenging Soldiers Part 2).
+- [ ] In Phaeroh's Crag, approach the **Phantom Rift**. Within Yormgen, speak with the Sage within the northern house and choose to rest when prompted (Extra Dungeon Part 1).
 - [ ] At the NW of the World Map, you can find **Yumanju** at the further north of Mt Temza. Speak with the Receptionist and that is it for now. In the meantime, prepare 900000 Gald (Hotspring Part 1)
 - [ ] In Mantaic, speak with the Cow Boy. Hand over Poison Ward, Paralyze Ward and Stone Ward for **Flare Cape** (Cow Boy Part 3)
 - [ ] In Myorzo, obtain the **Abyssion** from the Elder (Fell Arms Part 1)
