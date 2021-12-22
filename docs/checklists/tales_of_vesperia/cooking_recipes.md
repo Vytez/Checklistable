@@ -24,7 +24,7 @@
 - [ ] Clam Chowder: Make Miso Soup with Estelle.
 - [ ] Skewers: Make Miso Soup with Patty.
 - [ ] Sashimi: Make Salad with Raven.
-- [ ] Sushi: Make Salad with Karol.
+- [ ] Sushi: Make Sashimi with Karol.
 - [ ] Vegetable Stir Fry: Make Salad with Rita.
 - [ ] Soup Noodles: Make Vegetable Stir Fry with Raven.
 - [ ] Fisherman's Hot Pot: Make Seafood Bowl with Patty.
