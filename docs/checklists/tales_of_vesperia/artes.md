@@ -488,7 +488,7 @@ Altered artes are a specific set of artes that are learned by equipping certain 
 - [ ] Shining Falcon - Dispersion (Shining Falcon): Dispersion
 - [ ] Rending Quake (Demonic Circle): Athenor
 - [ ] Sword Rain: Alpha (Sword Rain): Alembic, Chain
-- [ ] Cure (Fird Aid): Great Deluge
+- [ ] Cure (First Aid): Great Deluge
 - [ ] Mmistral Soul (Luminant Scythe): Gale
 
 ### Source: Event/Sidequest
