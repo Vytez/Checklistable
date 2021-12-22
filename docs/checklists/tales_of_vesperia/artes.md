@@ -489,7 +489,7 @@ Altered artes are a specific set of artes that are learned by equipping certain 
 - [ ] Rending Quake (Demonic Circle): Athenor
 - [ ] Sword Rain: Alpha (Sword Rain): Alembic, Chain
 - [ ] Cure (First Aid): Great Deluge
-- [ ] Mmistral Soul (Luminant Scythe): Gale
+- [ ] Mistral Soul (Luminant Scythe): Gale
 
 ### Source: Event/Sidequest
 - [ ] Dazzling Spin
