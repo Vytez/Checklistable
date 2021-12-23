@@ -26,7 +26,7 @@ Burst Artes are granted automatically through the story, and are only able to be
 - Earth: Crucible + Athenor
 - Water: Dispersion + Great Deluge
 
-Mystic Artes are a further tier of artes usable in over limit, and are granted by the "Special" skill, available in the second half of the game. Each character again has one Mystic Arte.
+Mystic Artes are a further tier of artes usable in over limit. Each character has one Mystic Arte granted by the "Special" skill, available in the second half of the game. Characters may also have additional Mystic Artes that are unlockable under certain conditions.
 
 ## Yuri
 ### Source: Level
@@ -63,15 +63,13 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted b
 - [ ] Frigid Blast (Final Gale): Great Deluge
 
 ### Source: Event/Sidequest
-- [ ] Tiger Blade: After getting the Fiertia.
-- [ ] Shining Eagle: After first arriving in Nordopolica.
-- [ ] Final Gale: After Aurnion.
+- [ ] Tiger Blade: Available after getting the Fiertia.
+- [ ] Shining Eagle: Available after first arriving in Nordopolica.
+- [ ] Final Gale: Available after Aurnion.
 - [ ] Divine Wolf: Burst Arte.
 - [ ] Savage Wolf Fury: Mystic Arte.
-
-### Source: Other
-- [ ] Twin Wave: Mystic Arte, combination with Flynn
-- [ ] Heavenly Bladewing: Mystic Arte, only available from 2nd playthrough on
+- [ ] Twin Wave: Mystic Arte, combination with Flynn.
+- [ ] Heavenly Bladewing: Mystic Arte, only available from 2nd playthrough on.
 
 ## Estelle
 ### Source: Level
@@ -112,13 +110,11 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted b
 - [ ] Holy Rain (Holy Lance): Great Deluge
 
 ### Source: Event/Sidequest
-- [ ] Astion
-- [ ] Force Field
-- [ ] Extreme Stars
-
-### Source: Unknown
-- [ ] Sacred Penance
-- [ ] Ultimate Elementia
+- [ ] Astion: Available after Zaude.
+- [ ] Force Field: Available after the birth of Undine.
+- [ ] Extreme Stars: Burst Arte.
+- [ ] Sacred Penance: Mystic Arte.
+- [ ] Ultimate Elementia: Mystic Arte. 
 
 ## Karol
 ### Source: Level
@@ -157,13 +153,11 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted b
 - [ ] Death Quake Spark (Ultimate Divine Destruction): Athenor
 
 ### Source: Event/Sidequest
-- [ ] Bug Breath
-- [ ] Rending Drop
-- [ ] Ultra Punishing Swing
-
-### Source: Unknown
-- [ ] Overlord Reign Impact
-- [ ] Mega Flashbang Ultra X Bomber
+- [ ] Bug Breath: Available when sent to Keiv Moc.
+- [ ] Rending Drop: Available after Aurnion.
+- [ ] Ultra Punishing Swing: Burst Arte.
+- [ ] Overlord Reign Impact: Mystic Arte.
+- [ ] Mega Flashbang Ultra X Bomber: Mystic Arte.
 
 ## Rita
 ### Source: Level
@@ -202,13 +196,11 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted b
 - [ ] Thunder Blade (Blade Roll): Hell Fire, Gale
 
 ### Source: Event/Sidequest
-- [ ] Negative Gate
-- [ ] Meteor Storm
-- [ ] Mystic Drive
-
-### Source: Unknown
-- [ ] Ancient Catastrophe
-- [ ] Indignation
+- [ ] Negative Gate: Available after Mt. Temza.
+- [ ] Meteor Storm: Available after fending off threats from Nordopolica.
+- [ ] Mystic Drive: Burst Arte.
+- [ ] Ancient Catastrophe: Mystic Arte.
+- [ ] Indignation: Mystic Arte.
 
 ## Raven
 ### Source: Level
@@ -247,13 +239,11 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted b
 - [ ] Stop Flow (Vanji Lost): Hell Fire, Athenor, Gale, Great Deluge
 
 ### Source: Event/Sidequest
-- [ ] Arrivederci
-- [ ] Vanji Lost
-
-### Source: Unknown
-- [ ] Fury Blast
-- [ ] Blast Heart
-- [ ] Crisis Rain
+- [ ] Arrivederci: Available after getting the Fiertia.
+- [ ] Vanji Lost: Available after Aurnion.
+- [ ] Fury Blast: Burst Arte.
+- [ ] Blast Heart: Mystic Arte.
+- [ ] Crisis Rain: Mystic Arte.
 
 ## Judith
 ### Source: Level
@@ -291,13 +281,11 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted b
 - [ ] Luna Storm (Luna Havoc): Hell Fire, Alembic
 
 ### Source: Event/Sidequest
-- [ ] Moonlight Talon
-- [ ] Sundering Moon
-
-### Source: Unknown
-- [ ] Ashen Moonlight
-- [ ] Radiant Moonlight
-- [ ] Dragon's Moon Spear
+- [ ] Moonlight Talon: Available in Mantaic.
+- [ ] Sundering Moon: Available after Aurnion.
+- [ ] Ashen Moonlight: Burst Arte
+- [ ] Radiant Moonlight: Mystic Arte
+- [ ] Dragon's Moon Spear: Mystic Arte
 
 ## Repede
 ### Source: Level
@@ -334,12 +322,10 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted b
 - [ ] Phantom Glacier (Phantom Fang): Great Deluge, Gale
 
 ### Source: Event/Sidequest
-- [ ] Shining Fang
+- [ ] Shining Fang: Available after Aurnion.
 - [ ] Divine Dog: Burst Arte.
-
-### Source: Unknown
-- [ ] Slash!!
-- [ ] Lightning Flash
+- [ ] Slash!!: Mystic Arte
+- [ ] Lightning Flash: Mystic Arte
 
 ## Patty
 ### Source: Level
@@ -370,12 +356,10 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted b
 - [ ] Mahjong (Card Gamble): Athenor
 
 ### Source: Event/Sidequest
-- [ ] Search Gald
-- [ ] Critical Moment
-
-### Source: Unknown
-- [ ] Glittery Rain
-- [ ] Summon Friends
+- [ ] Search Gald: Available after the death of Belius.
+- [ ] Critical Moment: Available after Aurnion.
+- [ ] Glittery Rain: Burst Arte.
+- [ ] Summon Friends: Mystic Arte.
 
 ## Flynn
 ### Source: Level
@@ -408,10 +392,8 @@ Mystic Artes are a further tier of artes usable in over limit, and are granted b
 - [ ] Mistral Soul (Luminant Scythe): Gale
 
 ### Source: Event/Sidequest
-- [ ] Dazzling Spin
-
-### Source: Unknown
-- [ ] Blazing Pillar Smash
-- [ ] Radiant Dragon Fang
-- [ ] Firebird Flight
-- [ ] Twin Wave
+- [ ] Dazzling Spin: Available after Aurnion.
+- [ ] Blazing Pillar Smash: Burst Arte.
+- [ ] Radiant Dragon Fang: Mystic Arte.
+- [ ] Firebird Flight: Mystic Arte.
+- [ ] Twin Wave: Mystic Arte, with Yuri.
