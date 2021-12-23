@@ -26,7 +26,7 @@ Burst Artes are granted automatically through the story, and are only able to be
 - Earth: Crucible + Athenor
 - Water: Dispersion + Great Deluge
 
-Mystic Artes are a further tier of artes usable in over limit, and are granted automatically late in the story. Each character again has one Mystic Arte.
+Mystic Artes are a further tier of artes usable in over limit, and are granted by the "Special" skill, available in the second half of the game. Each character again has one Mystic Arte.
 
 ## Yuri
 ### Source: Level
