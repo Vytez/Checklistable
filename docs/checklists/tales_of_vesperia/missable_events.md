@@ -271,7 +271,7 @@ Here's the list of artes (thanks to **Massicot** from ResetEra!):
 - [ ] Radiant Dragon Fang (Mystic Arte)
 
 ### After Aurnion
-> **NOTE:** Aurnion is a classic JRPG example where there are many sidequests that may or may not trigger depending on your progress. Do complete more sidequests (possibly out of order) if a sidequest failed to trigger.
+**NOTE:** Aurnion is a classic JRPG example where there are many sidequests that may or may not trigger depending on your progress. Do complete more sidequests (possibly out of order) if a sidequest failed to trigger.
 - [ ] You will obtain **Vesperia No.2** and Flynn joins the party **PERMANENTLY** (PS3 and Definitive Edition)
 - [ ] Enter Aurnion and Yuri will learn **Final Gale** from Flynn (Sword Friend)
 - [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits)

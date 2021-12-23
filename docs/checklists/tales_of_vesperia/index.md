@@ -6,3 +6,4 @@
 - [Missable Events Checklist](missable_events.md)
 - [Cooking Recipes Checklist](cooking_recipes.md)
 - [Artes Checklist](artes.md)
+- [Giganto Monsters](giganto_monsters.md)
