@@ -170,16 +170,16 @@ After Estelle rejoins:
 ### After Estelle Joins Back
 - [ ] In Mt. Temza, head up for **Compact of Remembrance** (Avenging Soldiers Part 2).
 - [ ] In Phaeroh's Crag, approach the **Phantom Rift**. Within Yormgen, speak with the Sage within the northern house and choose to rest when prompted (Extra Dungeon Part 1).
-- [ ] On the northwest continent, you can find **Yumanju** directly north of Mt. Temza, in a foggy forest. Speak with the Receptionist and that is it for now. In the meantime, prepare 900,000 Gald (Hotspring Part 1). This is also a good town in which to purchase cooking supplies.
 - [ ] In Mantaic, speak with the Cow Boy. Hand over Poison Ward, Paralyze Ward and Stone Ward for **Flare Cape** (Cow Boy Part 3).
+- [ ] On the northwest continent, you can find **Yumanju** directly north of Mt. Temza, in a foggy forest. Speak with the Receptionist and that is it for now. In the meantime, prepare 900,000 Gald (Hotspring Part 1). This is also a good town in which to purchase cooking supplies.
 - [ ] In Myorzo, obtain the **Abyssion** from the Elder (Fell Arms Part 1).
 - [ ] In Nordopolica, arrange the warehouse near Belius' chambers for Specific, Paralyze Charm, Treat and 2,000 gald as the reward (Tidy Up The Warehouse Part 4).
 - [ ] In Capua Nor, go west to find Duke (Duke Final Part).
 - [ ] In Capua Torim, head towards the port to get the ship modified with **Salvage Crane** and the ability to **sail on shallow area** (Professor Sicily Part 3).
-- [ ] In Capua Torim, speak with the Round Spectacle Old Man to the right of the western stairs (standing in front of the ice-cream stall). You need seven kinds of Food Materials which you can buy at the shops (the shop at Yumanju carries every Food Materials). For the knife, you need **Sharp Blade** and **Flare Stone**. Go to the western bar in Dahngrest, talk to the right Bartender for the **Kitchen Knife**. Report back to the Old Man for the **Seafood Stew** recipe (PS3 and Definitive Edition)
-- [ ] Once you have obtained the Salvage Crane, go to Capua Nor and head towards the signboard on the west. Accept to pay and exit out. At the NW of Zaude, there is a Harvest Point. Sail to it and check for a scene (PS3 and Definitive Edition)
-- [ ] In Heliord, speak with Pauly near the Blastia. Go east and defeat the enemies for Repede's Special skill which enables Mystic Artes and Repede's **Nanny** title (Children Lover)
-- [ ] In Dahngrest, head toward the inn. Flynn gets the **Emperor Of The Night** title (PS3 and Definitive Edition)
+- [ ] In Capua Torim, speak with the old man to the right of the western stairs (standing in front of the ice cream stall). You need seven kinds of food materials which you can buy at the shops. For the knife, you need **Sharp Blade** and **Flare Stone**. Go to the western bar in Dahngrest, talk to the right Bartender for the **Kitchen Knife**. Report back to the Old Man for the **Seafood Stew** recipe.
+- [ ] In Dahngrest, head toward the inn. Flynn gets the **Emperor Of The Night** title.
+- [ ] Once you have obtained the Salvage Crane, go to Capua Nor and head towards the signboard on the west for a scene. Accept to pay, then exit out. Northwest of Zaude, there is a harvest point. Sail to it and check for a scene.
+- [ ] In Heliord, speak with Pauly near the blastia. Go east and defeat the enemies for Repede's Special skill which enables Mystic Artes and Repede's **Nanny** title.
 
 ### Zaude
 - [ ] At the area with the Giganto, go up near the Main Gate for the **Maris Stella**. This is needed for Secret Mission 20 (PS3 and Definitive Edition)
