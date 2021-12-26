@@ -182,10 +182,10 @@ After Estelle rejoins:
 - [ ] In Heliord, speak with Pauly near the blastia. Go east and defeat the enemies for Repede's Special skill which enables Mystic Artes and Repede's **Nanny** title.
 
 ### Zaude
-- [ ] At the area with the Giganto, go up near the Main Gate for the **Maris Stella**. This is needed for Secret Mission 20 (PS3 and Definitive Edition)
+- [ ] At the area with the Giganto, go up near the Main Gate for the **Maris Stella**. This is needed for Secret Mission 20.
 
 ## Act Three
-### After Everyone Joins Back
+### After Everyone Rejoins
 - [ ] In Zaphias, talk to LeBlanc for Raven's **Imperial Knights Captain** title (Rebuilding The Union Part 2)
 - [ ] In Zaphias, head toward the Nobles Quarter (Dark Enforcer Part 5)
 - [ ] In Deidon Hold, talk to the Man near the tents to play **Repede's Pro Snowboarding** minigame. Clear it in short amount of time then quit the minigame for Repede's **Snow Delivery Dog**. When clearing the other courses, Repede needs to equip specific Overdrive Attachment to match the Referees of the course (PS3 and Definitive Edition)
