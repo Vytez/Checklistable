@@ -186,25 +186,41 @@ After Estelle rejoins:
 
 ## Act Three
 ### After Everyone Rejoins
-#### Zapphias
-- [ ] Talk to LeBlanc for Raven's **Imperial Knights Captain** title (Rebuilding The Union Part 2).
+#### Zaphias
+- [ ] Talk to Leblanc in the Public Quarter for Raven's **Imperial Knights Captain** title (Rebuilding The Union Part 2).
 - [ ] Head toward the Nobles Quarter (Dark Enforcer Part 5).
-- [ ] In Deidon Hold, talk to the Man near the tents to play **Repede's Pro Snowboarding** minigame. Clear it in short amount of time then quit the minigame for Repede's **Snow Delivery Dog**. When clearing the other courses, Repede needs to equip specific Overdrive Attachment to match the Referees of the course (PS3 and Definitive Edition)
-- [ ] In Myorzo, enter the Elder's House. Check the stand before the back wall to get the **Bush Baby Doll**. Go to Aspio and speak with Tort for Estelle to learn **Astion**. If you are to do this later in the game, go to Deidon Hold instead of Aspio (Krytian Style Fighting)
-- [ ] In Myorzo, **_after finishing the above sidequest**_, enter the Elder's House. Check the stand before the back wall (Feelings In The Mural)
-- [ ] In Yumanju, pay 300000 Gald. After, sleep at any inn and come back to Pay 600000 Gald (Hotspring Part 2)
-- [ ] Fly toward the top of Mt Temza to trigger a scene (Dragon Race Part 1)
-- [ ] In Mantaic, speak with the Cow Boy. Hand over Hourglass and All Divide for Gel Set (Cow Boy Part 4)
-- [ ] In Capua Torim, toward the port to find Gauche and Droite. Go to Zaude and head to where you fought against Yeager to fight Gauche and Droite. While fighting them, be sure to **_steal**_ **Gauche Sword** and **Droite Sword**. After beating them, you will get **Letter of Challenge (L. Claw)** and **Divine Cannon** for Raven. With the Letter of Challenge (L. Claw), you can unlock 100 Man Melee in the Arena. However, don't clear 100 Man Melee because you won't get the full reward unless you have the Letter of Challenge (H. Blades) (Avenging Soldiers Final Part)
-- [ ] In Capua Torim, speak with the Woman in front of the floral stall.  Donate 500,000 Gald and attempt to exit town through the west to get Estelle's **Noble Princess** title (Estelle's Teacher Part 4)
-- [ ] In Heliord, go down to the Lower Section. You can find Sicily by the river. After the cutscene, fight at least ten battles and return back to the same spot where Sicily is. You can find the Robot near the eastern tent (Professor Sicily Part 4)
-- [ ] In Heliord, get near the Blastia **Addendum: Need to be done at night** (PS3 and Definitive Edition)
-- [ ] In Heliord, speak with the Shop Owner. Take your time to gather the raw materials to get title for Judith, Estelle and Karol as some of the materials are not accessible yet (Sexy Clothes)
-- [ ] In Dahngrest, enter the eastern shop and talk to the Soldier. Be sure to get the **Klonoa figurine** I mean **(C) F Statue** from the chest (Favorite Toys Part 1)
-- [ ] In Dahngrest, talk to the right Bartender in the western bar to get **Basement Key**. Head to Ghasfarost using the main entrance. Use the key on the left lever and shoot it with Sorcerer Ring to lower down the stairs. You will get the **False Dein Nomos** in the basement (Alexei's Research)
-- [ ] In Dahngrest, talk to Yu by the eastern entrance/exit. Head to the port in Capua Torim and talk to Nobis near by the western entrance/exit of Capua Torim in PS3 and Definitive Edition). Go back to Dahngrest and head in the inn. Go to the last area of Mt Temza and check the east of the green warp for Everlight Ore. **DO NOT USE THE WARP AS IT WILL SKIP A MISSABLE CUTSCENE**. Instead run all the way back to the exit for a cutscene. Report back to Nobis in Capua Torim for 5000 Gald (Guild Quest Part 3)
-- [ ] In Dahngrest, talk to the right Bartender in the western bar. Go to Zaphias and speak with LeBlanc by the fountain. Head in the inn and speak with Mimula (that resembles Cumore) by the counter. Go to the Manor of the Wicked and head back to Dahngrest. Speak with Yu by the eastern entrance/exit for **Letter to Leviathan's Claw**. Go back to the Manor of the Wicked and travel to Zaphias one more time. Go south toward the inn and speak with Mimula and Sebastian next to the save point. Pick the second choice and speak with LeBlanc by the fountain. Go report back to the right Bartender in Dahngrest for 6000 Gald (Guild Quest Part 4)
-- [ ] In Dahngrest, talk to the right Bartender in the western bar. Go to the Union HQ and speak with the two at the upper right corner. Head to Baction and after going down the ladder, head up to north. With the Sorcerer Ring Level 3, break through walls to make it to B2F. Head to the room that is at the west of the most SE room (refer to screenshot). You will find the **Shovel**. Report back to the two in the Union HQ for 5500 Gald (Guild Quest Part 5)
+
+#### Deidon Hold
+- [ ] Talk to the man near the tents to play **Repede's Pro Snowboarding** minigame. Clear it in short amount of time then quit the minigame for Repede's **Snow Delivery Dog**. When clearing the other courses, Repede needs to equip specific Overdrive Attachment to match the Referees of the course.
+
+#### Myorzo
+- [ ] Enter the Elder's House. Check the stand before the back wall to get the **Bush Baby Doll**. Go to Aspio and speak with Tort for Estelle to learn **Astion**. If you are to do this later in the game, go to Deidon Hold instead of Aspio to find Tort (Krytian Style Fighting).
+- [ ] ***After finishing the above sidequest***, enter the Elder's House. Check the stand before the back wall (Feelings In The Mural).
+
+#### Yumanju
+- [ ] Pay 300,000 gald. After, sleep at any inn and come back to pay 600,000 gald (Hotspring Part 2).
+
+#### Mt. Temza
+- [ ] Fly toward the top of Mt Temza to trigger a scene (Dragon Race Part 1).
+
+#### Mantaic
+- [ ] Speak with the Cow Boy. Hand over Hourglass and All Divide for Gel Set (Cow Boy Part 4).
+
+#### Capua Torim
+- [ ]  Go toward the port to find Gauche and Droite. Go to Zaude and head to where you fought against Yeager to fight Gauche and Droite. While fighting them, be sure to ***steal*** **Gauche Sword** and **Droite Sword**. After beating them, you will get **Letter of Challenge (L. Claw)** and **Divine Cannon** for Raven. With the Letter of Challenge (L. Claw), you can unlock 100 Man Melee in the Arena. However, don't clear 100 Man Melee because you won't get the full reward unless you have the Letter of Challenge (H. Blades) (Avenging Soldiers Final Part).
+- [ ] Speak with the woman in front of the floral stall. Donate 500,000 Gald and attempt to exit town through the west to get Estelle's **Noble Princess** title (Estelle's Teacher Part 4).
+
+#### Heliord
+- [ ] In Heliord, go down to the lower section. You can find Sicily by the river. After the cutscene, fight at least ten battles and return back to the same spot where Sicily is. You can find the robot near the eastern tent (Professor Sicily Part 4).
+- [ ] In Heliord, get near the Blastia **at night**.
+- [ ] In Heliord, speak with the shop owner. Take your time to gather the raw materials to get title for Judith, Estelle and Karol as some of the materials are not accessible yet (Sexy Clothes).
+
+#### Dahngrest
+- [ ] Enter the eastern shop and talk to the Soldier. Be sure to open the chest to get the **(C) F Statue** from the chest (Favorite Toys Part 1).
+- [ ] Talk to the right bartender in the western bar to get **Basement Key**. Head to Ghasfarost using the main entrance. Use the key on the left lever and shoot it with Sorcerer Ring to lower down the stairs. You will get the **False Dein Nomos** in the basement (Alexei's Research).
+- [ ] Talk to Yu by the eastern entrance/exit. Head to the port in Capua Torim and talk to Nobis near by the western entrance/exit of Capua Torim in PS3 and Definitive Edition). Go back to Dahngrest and head in the inn. Go to the last area of Mt. Temza and check the east of the green warp for Everlight Ore. **Do not use the warp or it will skip a missable cutscene**. Instead run all the way back down to the exit for a cutscene. Report back to Nobis in Capua Torim for 5,000 Gald (Guild Quest Part 3).
+- [ ] Talk to the right Bartender in the western bar. Go to Zaphias and speak with Leblanc by the fountain. Head in the inn and speak with Mimula (that resembles Cumore) by the counter. Go to the Manor of the Wicked and head back to Dahngrest. Speak with Yu by the eastern entrance/exit for **Letter to Leviathan's Claw**. Go back to the Manor of the Wicked and travel to Zaphias one more time. Go south toward the inn and speak with Mimula and Sebastian next to the save point. Pick the second choice and speak with Leblanc by the fountain. Go report back to the right bartender in Dahngrest for 6,000 Gald (Guild Quest Part 4).
+- [ ] Talk to the right bartender in the western bar. Go to the Union HQ and speak with the two at the upper right corner. Head to Baction and after going down the ladder, head up to north. With the Sorcerer Ring Level 3, break through walls to make it to B2F. Head to the room that is at the west of the most southeast room. You will find the **Shovel**. Report back to the two in the Union HQ for 5,500 Gald (Guild Quest Part 5).
 
 ### After The Birth Of Undine
 - [ ] In Zaphias, head toward the Nobles Quarter for Yuri's **Dark Enforcer** title (Dark Enforcer Part 6)
