@@ -186,8 +186,9 @@ After Estelle rejoins:
 
 ## Act Three
 ### After Everyone Rejoins
-- [ ] In Zaphias, talk to LeBlanc for Raven's **Imperial Knights Captain** title (Rebuilding The Union Part 2)
-- [ ] In Zaphias, head toward the Nobles Quarter (Dark Enforcer Part 5)
+#### Zapphias
+- [ ] Talk to LeBlanc for Raven's **Imperial Knights Captain** title (Rebuilding The Union Part 2).
+- [ ] Head toward the Nobles Quarter (Dark Enforcer Part 5).
 - [ ] In Deidon Hold, talk to the Man near the tents to play **Repede's Pro Snowboarding** minigame. Clear it in short amount of time then quit the minigame for Repede's **Snow Delivery Dog**. When clearing the other courses, Repede needs to equip specific Overdrive Attachment to match the Referees of the course (PS3 and Definitive Edition)
 - [ ] In Myorzo, enter the Elder's House. Check the stand before the back wall to get the **Bush Baby Doll**. Go to Aspio and speak with Tort for Estelle to learn **Astion**. If you are to do this later in the game, go to Deidon Hold instead of Aspio (Krytian Style Fighting)
 - [ ] In Myorzo, **_after finishing the above sidequest**_, enter the Elder's House. Check the stand before the back wall (Feelings In The Mural)
