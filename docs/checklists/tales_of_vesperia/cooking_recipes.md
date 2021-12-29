@@ -97,7 +97,7 @@ Master all recipes on a single character.
 - [ ] Steak
 - [ ] Sukiyaki
 - [ ] Sushi
-- [ ] Tempura. Make Croquette with Judith.
+- [ ] Tempura
 - [ ] Udon Noodles Hot Pot
 - [ ] Vegetable Stir Fry
 - [ ] Vichyssoise

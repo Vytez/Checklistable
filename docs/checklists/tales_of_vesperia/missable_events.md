@@ -207,7 +207,7 @@ After Estelle rejoins:
 - [ ] Speak with the Cow Boy. Hand over Hourglass and All Divide for Gel Set (Cow Boy Part 4).
 
 #### Capua Torim
-- [ ]  Go toward the port to find Gauche and Droite. Go to Zaude and head to where you fought against Yeager to fight Gauche and Droite. While fighting them, be sure to ***steal*** **Gauche Sword** and **Droite Sword**. After beating them, you will get **Letter of Challenge (L. Claw)** and **Divine Cannon** for Raven. With the Letter of Challenge (L. Claw), you can unlock 100 Man Melee in the Arena. However, don't clear 100 Man Melee because you won't get the full reward unless you have the Letter of Challenge (H. Blades) (Avenging Soldiers Final Part).
+- [ ]  Go toward the port to find Gauche and Droite. You can now go to Zaude and head to where you fought against Yeager to fight Gauche and Droite. They are level 60, so you may want to delay until you are at an appropriate level. While fighting them, be sure to ***steal*** **Gauche Sword** and **Droite Sword**. After beating them, you will get **Letter of Challenge (L. Claw)** and **Divine Cannon** for Raven. With the Letter of Challenge (L. Claw), you can unlock 100 Man Melee in the Arena. However, don't clear 100 Man Melee because you won't get the full reward unless you have the Letter of Challenge (H. Blades) (Avenging Soldiers Final Part).
 - [ ] Speak with the woman in front of the floral stall. Donate 500,000 Gald and attempt to exit town through the west to get Estelle's **Noble Princess** title (Estelle's Teacher Part 4).
 
 #### Heliord
