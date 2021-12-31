@@ -222,11 +222,14 @@ After Estelle rejoins:
 - [ ] Talk to the right Bartender in the western bar. Go to Zaphias and speak with Leblanc by the fountain. Head in the inn and speak with Mimula (that resembles Cumore) by the counter. Go to the Manor of the Wicked and head back to Dahngrest. Speak with Yu by the eastern entrance/exit for **Letter to Leviathan's Claw**. Go back to the Manor of the Wicked and travel to Zaphias one more time. Go south toward the inn and speak with Mimula and Sebastian next to the save point. Pick the second choice and speak with Leblanc by the fountain. Go report back to the right bartender in Dahngrest for 6,000 Gald (Guild Quest Part 4).
 - [ ] Talk to the right bartender in the western bar. Go to the Union HQ and speak with the two at the upper right corner. Head to Baction and after going down the ladder, head up to north. With the Sorcerer Ring Level 3, break through walls to make it to B2F. Head to the room that is at the west of the most southeast room. You will find the **Shovel**. Report back to the two in the Union HQ for 5,500 Gald (Guild Quest Part 5).
 
+### Blade Rifts of Zopheir (Again)
+- Nothing missable this time around. Enter from the Zaphias side, the Capua Nor side doesn't connect to the aer krene.
+
 ### After The Birth Of Undine
-- [ ] In Zaphias, head toward the Nobles Quarter for Yuri's **Dark Enforcer** title (Dark Enforcer Part 6)
-- [ ] In Halure, speak with the kids under the tree to get Estelle's **Fairy Tale Weaver** title (Under The Tree Part 3)
-- [ ] In Halure, _after completing the above_, get near the tree for Estelle to learn **Force Field** (Under The Tree Part 4)
-- [ ] In Myorzo, head to the second area. Speak with the Kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get **Ultimate Red Cape** and Judith's **Super Dragon Rider** title. If you have done at least 1000 Fatal Strike Chains, rest at the inn then speak with the Kid for Judith's **Into The Sky** title (Dragon Race Final Part)
+- [ ] In Zaphias, head toward the Nobles Quarter for Yuri's **Dark Enforcer** title (Dark Enforcer Part 6).
+- [ ] In Halure, speak with the kids under the tree to get Estelle's **Fairy Tale Weaver** title (Under The Tree Part 3).
+- [ ] In Halure, *after completing the above*, get near the tree for Estelle to learn **Force Field** (Under The Tree Part 4).
+- [ ] In Myorzo, head to the second area. Speak with the kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get **Ultimate Red Cape** and Judith's **Super Dragon Rider** title. If you have done at least 1,000 Fatal Strike Chains, rest at the inn then speak with the Kid for Judith's **Into The Sky** title (Dragon Race Final Part).
 
 ### After Fending Off Nordopolica From Threats
 - [ ] In Aspio, head towards the center. Rest at the inn at least twice and revisit the center again for Rita to learn **Meteor Storm**. If you are to activate this later in the game, go to Halure instead (Spirit Magic Part 1)
