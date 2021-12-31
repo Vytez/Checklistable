@@ -179,6 +179,7 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Violent Pain (41)
 - [ ] Ground Dasher (46)
 - [ ] Tidal Wave (52)
+- [ ] Crimson Flare (58)
 
 ### Source: Skills (Altered Artes)
 - [ ] &int;&nabla;=&Sigma;(&omega;&pi;) (&xi;x&Psi;=&Phi;): Chain
