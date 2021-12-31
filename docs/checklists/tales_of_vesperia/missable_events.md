@@ -232,10 +232,10 @@ After Estelle rejoins:
 - [ ] In Myorzo, head to the second area. Speak with the kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get **Ultimate Red Cape** and Judith's **Super Dragon Rider** title. If you have done at least 1,000 Fatal Strike Chains, rest at the inn then speak with the Kid for Judith's **Into The Sky** title (Dragon Race Final Part).
 
 ### After Fending Off Nordopolica From Threats
-- [ ] In Aspio, head towards the center. Rest at the inn at least twice and revisit the center again for Rita to learn **Meteor Storm**. If you are to activate this later in the game, go to Halure instead (Spirit Magic Part 1)
-- [ ] In Dahngrest, rest at the inn (Raven And The Heart Blastia)
-- [ ] In Myorzo, speak with the Elder (Judith's Sundering Moon Part 1)
-- [ ] If you have finished (Sexy Clothes) **Addendum: The crafting materials are pretty much impossible for first-time playthrough at this point so don't sweat it as you can revisit this missable later**, sail to the near west of Nordopolica and check the Harvest Point for Patty's **Glamorous Walker** title (PS3 and Definitive Edition)
+- [ ] In Aspio, head towards the center. Rest at the inn at least twice and revisit the center again for Rita to learn **Meteor Storm**. If you are to activate this later in the game, go to Halure instead (Spirit Magic Part 1).
+- [ ] In Dahngrest, rest at the inn (Raven and The Heart Blastia).
+- [ ] In Myorzo, speak with the Elder (Judith's Sundering Moon Part 1).
+- [ ] If you have finished (Sexy Clothes) **Addendum: The crafting materials are pretty much impossible for first-time playthrough at this point so don't sweat it as you can revisit this missable later**, sail to the near west of Nordopolica and check the Harvest Point for Patty's **Glamorous Walker** title.
 
 ### After Getting All Four Spirits
 - [ ] A scene will trigger while flying around with Baul (Anxiety Of Spiritization)
