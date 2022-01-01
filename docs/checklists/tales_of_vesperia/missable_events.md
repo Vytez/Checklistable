@@ -237,13 +237,13 @@ After Estelle rejoins:
 - [ ] In Myorzo, speak with the Elder (Judith's Sundering Moon Part 1).
 - [ ] If you have finished (Sexy Clothes) **Addendum: The crafting materials are pretty much impossible for first-time playthrough at this point so don't sweat it as you can revisit this missable later**, sail to the near west of Nordopolica and check the Harvest Point for Patty's **Glamorous Walker** title.
 
-### After Getting All Four Spirits
-- [ ] A scene will trigger while flying around with Baul (Anxiety Of Spiritization)
-- [ ] At the SE of Weasand Of Cados, you can find the Four Sisters Islands. Head in the rock formation on one of the islands. You will get **Zarich** and head inside for Sorcerer Ring Level 4 (Fell Arms Part 2)
-- [ ] With Sorcerer Ring Level 4, explore Keiv Moc thoroughly for more items. You can also find **Nebilim** in one of the chests (Fell Arms Part 3)
-- [ ] With Sorcerer Ring Level 4, explore Relewiese Hollow thoroughly for more items. You can also find **Mercurius** in one of the chests (Fell Arms Part 4)
-- [ ] With Sorcerer Ring Level 4, go back to Quoi Forest. From the eastern entrance/exit, go west a bit and look out for rotten grass. Burn them to an area where you can find **Glasya Labolas** in a chest behind the Giganto Monster (Fell Arms Part 5)
-- [ ] Before you go on any further, make sure you have at least completed 50% of the Collector's Book. Walk up the stairs in the west house in Aspio. Later, when you have completed 100% of the Collector's Book, head toward the fountain at the west in Halure. You will get Limits Bottle and Estelle's Item Mania title. Make sure you at least activate the part in Aspio NOW because you are JUST before the deadline (Collector's Book Final Part)
+### After Getting all Four Spirits
+- [ ] A scene will trigger while flying around with Ba'ul (Anxiety Of Spiritization).
+- [ ] Southeast from the Weasand of Cados, you can find the Four Sisters Islands. Enter the rock formation on one of the islands. Follow path to get **Zarich**, then head inside for Sorcerer Ring Level 4 (Fell Arms Part 2).
+- [ ] With Sorcerer Ring Level 4, explore Keiv Moc thoroughly for more items. You will find **Nebilim** in one of the chests (Fell Arms Part 3).
+- [ ] With Sorcerer Ring Level 4, explore Relewiese Hollow thoroughly for more items. You will find **Mercurius** in one of the chests (Fell Arms Part 4).
+- [ ] With Sorcerer Ring Level 4, explore Quoi Forest thoroughly for more items. You will find **Glasya Labolas** in one of the chests (Fell Arms Part 5).
+- [ ] Make sure you have at least completed 50% of the Collector's Book. Walk up the stairs in the west house in Aspio for a scene. You must do this now, as you are approaching the cut off point where this will no longer be accessible.
 
 ### Resting at Capua Nor (PS3/Definitive Edition)
 - [ ] When Patty goes off at nighttime, follow her to the west and toward the port behind the mansion. Get on the boat to the Atherum. Go up to the deck and when fighting Cursed Wanderer, **_use the Maris Stella**_ (Secret Mission 20, PS3 and Definitive Edition)
@@ -337,6 +337,7 @@ Here's the list of artes (thanks to **Massicot** from ResetEra!):
 - [ ] Repeatedly use any tent item on the World Map for Flynn to learn **Dazzling Spin** (PS3 and Definitive Edition)
 - [ ] In the Renansula Hollow, head towards the graveyard (PS3 and Definitive Edition)
 - [ ] Enter Relewiese Hollow for a scene with Sylph (PS3 and Definitive Edition)
+- [ ] Later, when you have completed 100% of the Collector's Book, head toward the fountain at the west in Halure. You will get Limits Bottle and Estelle's Item Mania title. Make sure you at least activate the part in Aspio NOW because you are JUST before the deadline (Collector's Book Final Part)
 
 ### Sword Dancer Sidequest (PS3 and Definitive Edition)
 - [ ] Enter Capua Nor and talk to **Hisca and Chastel** from _Tales of Vesperia: The First Strike_ movie.
