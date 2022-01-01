@@ -229,7 +229,8 @@ After Estelle rejoins:
 - [ ] In Zaphias, head toward the Nobles Quarter for Yuri's **Dark Enforcer** title (Dark Enforcer Part 6).
 - [ ] In Halure, speak with the kids under the tree to get Estelle's **Fairy Tale Weaver** title (Under The Tree Part 3).
 - [ ] In Halure, *after completing the above*, get near the tree for Estelle to learn **Force Field** (Under The Tree Part 4).
-- [ ] In Myorzo, head to the second area. Speak with the kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get **Ultimate Red Cape** and Judith's **Super Dragon Rider** title. If you have done at least 1,000 Fatal Strike Chains, rest at the inn then speak with the Kid for Judith's **Into The Sky** title (Dragon Race Final Part).
+- [ ] In Myorzo, head to the second area. Speak with the kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get **Ultimate Red Cape** and Judith's **Super Dragon Rider** title.
+- [ ] In Myorzo, *after completing the above*, if you have done at least 1,000 Fatal Strike Chains, rest at the inn then speak with the Kid for Judith's **Into The Sky** title (Dragon Race Final Part).
 
 ### After Fending Off Nordopolica From Threats
 - [ ] In Aspio, head towards the center. Rest at the inn at least twice and revisit the center again for Rita to learn **Meteor Storm**. If you are to activate this later in the game, go to Halure instead (Spirit Magic Part 1).
@@ -240,7 +241,7 @@ After Estelle rejoins:
 ### After Getting all Four Spirits
 - [ ] A scene will trigger while flying around with Ba'ul (Anxiety Of Spiritization).
 - [ ] Southeast from the Weasand of Cados, you can find the Four Sisters Islands. Enter the rock formation on one of the islands. Follow path to get **Zarich**, then head inside for Sorcerer Ring Level 4 (Fell Arms Part 2).
-- [ ] With Sorcerer Ring Level 4, explore Keiv Moc thoroughly for more items. You will find **Nebilim** in one of the chests (Fell Arms Part 3).
+- [ ] With Sorcerer Ring Level 4, explore Keiv Moc thoroughly for more items. Key items to look for are **Blue Dice** and **Nebilim** (Fell Arms Part 3).
 - [ ] With Sorcerer Ring Level 4, explore Relewiese Hollow thoroughly for more items. You will find **Mercurius** in one of the chests (Fell Arms Part 4).
 - [ ] With Sorcerer Ring Level 4, explore Quoi Forest thoroughly for more items. You will find **Glasya Labolas** in one of the chests (Fell Arms Part 5).
 - [ ] Make sure you have at least completed 50% of the Collector's Book. Walk up the stairs in the west house in Aspio for a scene. You must do this now, as you are approaching the cut off point where this will no longer be accessible.
