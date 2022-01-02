@@ -243,7 +243,7 @@ After Estelle rejoins:
 - [ ] Southeast from the Weasand of Cados, you can find the Four Sisters Islands. Enter the rock formation on one of the islands. Follow path to get **Zarich**, then head inside for Sorcerer Ring Level 4 (Fell Arms Part 2).
 - [ ] With Sorcerer Ring Level 4, explore Keiv Moc thoroughly for more items. Key items to look for are **Blue Dice** and **Nebilim** (Fell Arms Part 3).
 - [ ] With Sorcerer Ring Level 4, explore Relewiese Hollow thoroughly for more items. Key item to look for is **Mercurius** (Fell Arms Part 4).
-- [ ] With Sorcerer Ring Level 4, explore Quoi Forest thoroughly for more items. You will find **Glasya Labolas** in one of the chests (Fell Arms Part 5).
+- [ ] With Sorcerer Ring Level 4, explore Quoi Forest thoroughly for more items. Key item to look for is **Glasya Labolas** in one of the chests near the giganto (Fell Arms Part 5).
 - [ ] Make sure you have at least completed 50% of the Collector's Book. Walk up the stairs in the west house in Aspio for a scene. You must do this now, as you are approaching the cut off point where this will no longer be accessible.
 
 ### Resting at Capua Nor (PS3/Definitive Edition)
