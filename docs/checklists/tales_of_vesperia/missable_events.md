@@ -246,8 +246,8 @@ After Estelle rejoins:
 - [ ] With Sorcerer Ring Level 4, explore Quoi Forest thoroughly for more items. Key item to look for is **Glasya Labolas** in one of the chests near the giganto (Fell Arms Part 5).
 - [ ] Make sure you have at least completed 50% of the Collector's Book. Walk up the stairs in the west house in Aspio for a scene. You must do this now, as you are approaching the cut off point where this will no longer be accessible.
 
-### Resting at Capua Nor (PS3/Definitive Edition)
-- [ ] When Patty goes off at nighttime, follow her to the west and toward the port behind the mansion. Get on the boat to the Atherum. Go up to the deck and when fighting Cursed Wanderer, **_use the Maris Stella**_ (Secret Mission 20, PS3 and Definitive Edition)
+### Resting at Capua Nor
+- [ ] When Patty goes off at nighttime, follow her to the west and toward the port behind the mansion. Get on the boat to the Atherum. Go up to the deck and when fighting Cursed Wanderer, ***use the Maris Stella*** (Secret Mission 20).
 
 ### After Capua Nor
 - [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the City of the Waning Moon. Go to the last area in Zaude and you will be able to enter the Necropolis of Nostalgia. At the first area, **Firmament**, you can find Flynn's Fell Weapon **Seven-Branched Blade** at the NW of the 8F. At the second area, **Existence**, you can find Patty's Fell Weapon **Corbis** at the SE of 9F. After beating **Ohma**, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
