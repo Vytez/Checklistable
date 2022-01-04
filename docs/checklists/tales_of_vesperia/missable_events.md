@@ -250,7 +250,7 @@ After Estelle rejoins:
 - [ ] When Patty goes off at nighttime, follow her to the west and toward the port behind the mansion. Get on the boat to the Atherum. Go up to the deck and when fighting Cursed Wanderer, **_use the Maris Stella**_ (Secret Mission 20, PS3 and Definitive Edition)
 
 ### After Capua Nor
-- [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the City of the Waning Moon. Go to the last area in Zaude and you will be able to enter the Necropolis of Nostalgia. At the first area, **Firmament**, you can find Flynn's Fell Weapon **Seven-Branched Blade** at the NW of the 8F. At the second area, **Existence**, you can find Patty's Fell Weapon **Corbis** at the SE of 9F. After beating **Ohma**, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
+- [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the City of the Waning Moon. Go to the last area in Zaude and you will be able to enter the Necropolis of Nostalgia. This is a late game, optional dungeon that can be completed at any time.
 - [ ] In Zaphias, head down toward the Fountain in Lower Quarter from the top of the slope. After that, head towards the Castle. In the PS3 and Definitive Edition, enter through the Lower Quarter before heading to the Castle (Future Of Blastia)
 - [ ] In Zaphias, sleep in Yuri's Room to trigger a scene where Rita gets **Estelle's Best Friend** title while Estelle gets **Best Friends** title (PS3 and Definitive Edition)
 - [ ] Fly to the Wecca Continent and land at the SE Part. You can encounter the Giganto **Bloody Beak** (PS3 and Definitive Edition)
@@ -339,6 +339,9 @@ Here's the list of artes (thanks to **Massicot** from ResetEra!):
 - [ ] In the Renansula Hollow, head towards the graveyard (PS3 and Definitive Edition)
 - [ ] Enter Relewiese Hollow for a scene with Sylph (PS3 and Definitive Edition)
 - [ ] Later, when you have completed 100% of the Collector's Book, head toward the fountain at the west in Halure. You will get Limits Bottle and Estelle's Item Mania title. Make sure you at least activate the part in Aspio NOW because you are JUST before the deadline (Collector's Book Final Part)
+
+### Necropolis of Nostalgia
+ - [ ] At the first area, **Firmament**, you can find Flynn's Fell Weapon **Seven-Branched Blade** at the NW of the 8F. At the second area, **Existence**, you can find Patty's Fell Weapon **Corbis** at the SE of 9F. After beating **Ohma**, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
 
 ### Sword Dancer Sidequest (PS3 and Definitive Edition)
 - [ ] Enter Capua Nor and talk to **Hisca and Chastel** from _Tales of Vesperia: The First Strike_ movie.
