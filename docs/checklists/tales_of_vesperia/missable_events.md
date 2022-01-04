@@ -251,7 +251,7 @@ After Estelle rejoins:
 
 ### After Capua Nor
 - [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the City of the Waning Moon. Go to the last area in Zaude and you will be able to enter the Necropolis of Nostalgia. This is a late game, optional dungeon that can be completed at any time.
-- [ ] In Zaphias, head down toward the Fountain in Lower Quarter from the top of the slope. After that, head towards the Castle. In the PS3 and Definitive Edition, enter through the Lower Quarter before heading to the Castle (Future Of Blastia)
+- [ ] When flying near Zaphias, you may trigger a scene where Judith will ask to visit the capital. **Enter the city through the Lower Quarter** to trigger a scene near the fountain, then head toward the castle (Future Of Blastia).
 - [ ] In Zaphias, sleep in Yuri's Room to trigger a scene where Rita gets **Estelle's Best Friend** title while Estelle gets **Best Friends** title (PS3 and Definitive Edition)
 - [ ] Fly to the Wecca Continent and land at the SE Part. You can encounter the Giganto **Bloody Beak** (PS3 and Definitive Edition)
 - [ ] After beating all eleven Giganto Monsters, go back to speak with Rich for Karol's **Valiant Swordsman** title. Go back to Capua Torim to speak with Rich's Father and report back to Rich (King Of Adventure Part 3)
