@@ -267,7 +267,7 @@ After Estelle rejoins:
 - [ ] In Nam Cobanda Isle, head in the Gym and speak with the Woman near the Stage to get the Drama Series titles and Estelle's **Hero's Sword** and **Shield of Valor** (Drama Lovers).
 
 ### Flynn
-- [ ] Flynn must use every arte to unlock Secret Mission 23. Flynn will use his Mystic Arte, ***Radiant Dragon Fang*** when Yuri uses his Mystic Arte. The best way to unlock the Secret Mission is to equip **Compact Sword +1** which has the Minimum Damage skill to prolong the battle. Once unlocked, switch to a better weapon to finish off the battle. Alternatively, you can redo this battle for the Secret Mission achievement at Nam Cobanda Isle.
+Flynn must use every arte to unlock Secret Mission 23. Flynn will use his Mystic Arte, ***Radiant Dragon Fang*** when Yuri uses his Mystic Arte. The best way to unlock the Secret Mission is to equip **Compact Sword +1** which has the Minimum Damage skill to prolong the battle. Once unlocked, switch to a better weapon to finish off the battle. Alternatively, you can redo this battle for the Secret Mission achievement at Nam Cobanda Isle.
 
 #### List of Artes
 - [ ] Rising Falcon
@@ -288,9 +288,10 @@ After Estelle rejoins:
 - [ ] Radiant Dragon Fang (Mystic Arte)
 
 ### After Aurnion
-**NOTE:** Aurnion is a classic JRPG example where there are many sidequests that may or may not trigger depending on your progress. Do complete more sidequests (possibly out of order) if a sidequest failed to trigger.
-- [ ] You will obtain **Vesperia No.2** and Flynn joins the party **PERMANENTLY** (PS3 and Definitive Edition)
-- [ ] Enter Aurnion and Yuri will learn **Final Gale** from Flynn (Sword Friend)
+Throughout Aurnion there are many sidequests that may or may not trigger depending on your progress. If a sidequest doesn't trigger, skip it and complete other sidequests (possibly out of the order listed).  
+
+* You will automatically obtain **Vesperia No.2** and Flynn will join the party **permanently**.
+- [ ] Enter Aurnion and Yuri will learn **Final Gale** from Flynn (Sword Friend).
 - [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits)
 - [ ] Sail to the west of the Manor of the Wicked to find a Harvest Point. Check it to get the **Leoluca** for Patty (PS3)
 - [ ] In Zaphias, enter the inn for Patty's **Amazing Chef** title (PS3 and Definitive Edition)
