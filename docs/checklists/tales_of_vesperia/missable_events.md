@@ -259,8 +259,7 @@ After Estelle rejoins:
 - The isle is located in the northwest of the map, and is available once Tarqaron rises.
 - [ ] Enter the gym and speak with Miska. This will initiate a quest to retrieve five books. Four of these are located at the Elder's House in Halure; the Guard's HQ in Heliord, the inn in Mantaic, and Fortune's Market HQ in Capua Torim. The last book is not available yet. (Miska Doctoral Degree Part 1).
 - [ ] Enter the gym and speak with the Cow Boy at the Poker Table. Exit out and enter back into the gym to trigger a scene with Kaufman. Judith will enter a poker match. Whether you win or lose the match, Judith will get the **Legendary Gambler** title.
-
-- [ ] Enter the gym. Speak with the cow boy at the Chip Exchange and Poker Table and the ant lion by the Toy Machines. Trade in over 250,000 worth of chips for prizes in order to get Judith's **Poker Face** title. Exit out from the gym and enter the Shoe Locker room (Poker Face).
+- [ ] Enter the gym. Speak with the cow boy at the Chip Exchange and Poker Table and the ant lion by the Toy Machines. Trade in over 250,000 worth of chips for prizes in order to get Judith's **Poker Face** title. Exit out from the gym and enter the Shoe Locker room (Poker Face). Best way to earn chips is just playing the poker game and doubling down on your bets.
 
 ### After Flynn Leaves the Party (Fetching Leaders)
 - [ ] In Dahngrest, you can meet with Dyne a bit north from the inn. Go toward the intersection in Mantaic and go to Mt Temza to fight the Giganto Monster. Go back to speak with Dyne at the intersection in Mantaic (Guild Quest Part 6)
