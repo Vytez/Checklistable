@@ -266,11 +266,10 @@ After Estelle rejoins:
 - [ ] In Capua Torim, sleep at the inn to see Karol's Dream. **Karol must have the Girly costume title and not be wearing it before sleeping at the inn**.
 - [ ] In Nam Cobanda Isle, head in the Gym and speak with the Woman near the Stage to get the Drama Series titles and Estelle's **Hero's Sword** and **Shield of Valor** (Drama Lovers).
 
-### VS Flynn
-- [ ] Flynn must use every artes to unlock Secret Mission 23. In PS3 and Definitive Edition, Flynn will use his Mystic Arte, **_Radiant Dragon Fang**_ that are triggered when Yuri uses Mystic Arte.
-The best way to unlock the Secret Mission is to equip **Compact Sword +1** which has the Minimum Damage skill to prolong the battle. Once unlocked, switch to a better weapon to finish off the battle. Alternatively, you can redo this battle for the Secret Mission achievement at Nam Cobanda Isle.
- 
-Here's the list of artes (thanks to **Massicot** from ResetEra!):
+### Flynn
+- [ ] Flynn must use every arte to unlock Secret Mission 23. Flynn will use his Mystic Arte, ***Radiant Dragon Fang*** when Yuri uses his Mystic Arte. The best way to unlock the Secret Mission is to equip **Compact Sword +1** which has the Minimum Damage skill to prolong the battle. Once unlocked, switch to a better weapon to finish off the battle. Alternatively, you can redo this battle for the Secret Mission achievement at Nam Cobanda Isle.
+
+#### List of Artes
 - [ ] Rising Falcon
 - [ ] Sonic Thrust
 - [ ] Dragon Swarm
