@@ -261,10 +261,10 @@ After Estelle rejoins:
 - [ ] Enter the gym and speak with the Cow Boy at the Poker Table. Exit out and enter back into the gym to trigger a scene with Kaufman. Judith will enter a poker match. Whether you win or lose the match, Judith will get the **Legendary Gambler** title.
 - [ ] Enter the gym. Speak with the cow boy at the Chip Exchange and Poker Table and the ant lion by the Toy Machines. Trade in over 250,000 worth of chips for prizes in order to get Judith's **Poker Face** title. Exit out from the gym and enter the Shoe Locker room (Poker Face). Best way to earn chips is just playing the poker game and doubling down on your bets.
 
-### After Flynn Leaves the Party (Fetching Leaders)
-- [ ] In Dahngrest, you can meet with Dyne a bit north from the inn. Go toward the intersection in Mantaic and go to Mt Temza to fight the Giganto Monster. Go back to speak with Dyne at the intersection in Mantaic (Guild Quest Part 6)
-- [ ] In Capua Torim, sleep at the inn to see Karol's Dream. **Addendum: Karol must have the Girly costume title and not wearing it before sleeping at the inn**  (PS3 and Definitive Edition)
-- [ ] In Nam Cobanda Isle, head in the Gym and speak with the Woman near the Stage to get the Drama Series titles, Estelle's **Hero's Sword** and **Shield of Valor** (Drama Lovers)
+### After Saving Flynn in Hypionia
+- [ ] In Dahngrest, you can meet with Dyne a bit north from the inn. Go toward the intersection in Mantaic and go to Mt Temza to fight the Giganto Monster. Go back to speak with Dyne at the intersection in Mantaic (Guild Quest Part 6).
+- [ ] In Capua Torim, sleep at the inn to see Karol's Dream. **Karol must have the Girly costume title and not be wearing it before sleeping at the inn**.
+- [ ] In Nam Cobanda Isle, head in the Gym and speak with the Woman near the Stage to get the Drama Series titles and Estelle's **Hero's Sword** and **Shield of Valor** (Drama Lovers).
 
 ### VS Flynn
 - [ ] Flynn must use every artes to unlock Secret Mission 23. In PS3 and Definitive Edition, Flynn will use his Mystic Arte, **_Radiant Dragon Fang**_ that are triggered when Yuri uses Mystic Arte.
