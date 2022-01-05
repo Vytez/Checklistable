@@ -20,3 +20,6 @@ Early in the game, you will Karen and Rich at the Wandering Traveler. Make sure 
 - [ ] Poseidon: The Enduring Shrine of Zaude
 - [ ] Fenrir: The Erealumen Crystallands
 - [ ] Bloody Beak: Southeast Weccea
+
+## Conclusion
+After defeating all Giganto monsters and speaking to Rich each time, go to Capua Torim and speak to Rich's father, then report back to Rich.

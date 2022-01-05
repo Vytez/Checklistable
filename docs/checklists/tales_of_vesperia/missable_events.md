@@ -251,18 +251,16 @@ After Estelle rejoins:
 
 ### After Capua Nor
 - [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the City of the Waning Moon. Go to the last area in Zaude and you will be able to enter the Necropolis of Nostalgia. This is a late game, optional dungeon that can be completed at any time.
-- [ ] When flying near Zaphias, you may trigger a scene where Judith will ask to visit the capital. **Enter the city through the Lower Quarter** to trigger a scene near the fountain, then head toward the castle (Future Of Blastia).
-- [ ] In Zaphias, sleep in Yuri's Room to trigger a scene where Rita gets **Estelle's Best Friend** title while Estelle gets **Best Friends** title (PS3 and Definitive Edition)
-- [ ] Fly to the Wecca Continent and land at the SE Part. You can encounter the Giganto **Bloody Beak** (PS3 and Definitive Edition)
-- [ ] After beating all eleven Giganto Monsters, go back to speak with Rich for Karol's **Valiant Swordsman** title. Go back to Capua Torim to speak with Rich's Father and report back to Rich (King Of Adventure Part 3)
-- [ ] In Capua Torim, you can enter the Lighthouse which is Patty's Home (PS3 and Definitive Edition)
-- [ ] In Nam Cobanda Isle, talk to the Cow Boy at NE. For 300 Chips, you can fight specific bosses for any missed Secret Mission. However, you don't get any Grade, Item, EXP and Gald (PS3 and Definitive Edition)
-- [ ] In Nam Cobanda Isle, enter the Gym. Speak with the Cow Boy at the Chip Exchange, Poker Table and the Ant Lion by the Toy Machines. Use over 250000 worth of Chips to trade in Prizes for Judith's **Poker Face** title. Exit out the Gym and enter the Shoe Locker room (Poker Face)
-- [ ] In Nam Cobanda Isle, enter the Gym and speak with the Cow Boy at the Poker Table if you haven't done so yet. Exit out and enter back the Gym to trigger the scene with Kaufman. Whether you win or lose the match, Judith will get the **Legendary Gambler** title (Gamble Life)
-- [ ] In Nam Cobanda Isle, speak with the Ant Lion near the entrance/exit after you have done (Favorite Toys Final Part). If you have opened up 445 (86%) Treasure Boxes, you will get Yuri's Treasure Hunter title (Treasure Hunter)
+- [ ] When flying near Zaphias, you may trigger a scene where Judith will ask to visit the capital. **Enter the city through the Lower Quarter** to trigger a scene near the fountain, then head toward the castle (Future of Blastia).
+- [ ] In Zaphias, sleep in Yuri's Room to trigger a scene where Rita gets **Estelle's Best Friend** title and Estelle gets **Best Friends** title.
+- [ ] In Capua Torim, you can now enter the Lighthouse which is Patty's home.
 
-> **FAVORITE TOYS SIDEQUEST NOTE:** For PS3 and Definitive Edition, you need to wait until Flynn joins the party permanently for Hanks to show up in Zaphias.
-- [ ] Go to Yumanju and speak with the Man at the upper left for the Tiara. Check the upper left Toy Machine in Yumanju for three statues. Go to Zaphias and speak with Hanks for one more statue. For the last six statues, you get them through the Toy Machines in the Gym of Nam Cobanda Isle. There is one statue each from 10 Chip Machine and 500 Chip Machine then two statues each from 100 Chip Machine and 50 Chip Machine. With all the statues, report back to the Man in Yumanju for Yuri's **Recollection Guardian** title (Favorite Toys Final Part)
+#### Nam Cobanda Isle unlocks
+- The isle is located in the northwest of the map, and is available once Tarqaron rises.
+- [ ] Enter the gym and speak with Miska. This will initiate a quest to retrieve five books. Four of these are located at the Elder's House in Halure; the Guard's HQ in Heliord, the inn in Mantaic, and Fortune's Market HQ in Capua Torim. The last book is not available yet. (Miska Doctoral Degree Part 1).
+- [ ] Enter the gym and speak with the Cow Boy at the Poker Table. Exit out and enter back into the gym to trigger a scene with Kaufman. Judith will enter a poker match. Whether you win or lose the match, Judith will get the **Legendary Gambler** title.
+
+- [ ] Enter the gym. Speak with the cow boy at the Chip Exchange and Poker Table and the ant lion by the Toy Machines. Trade in over 250,000 worth of chips for prizes in order to get Judith's **Poker Face** title. Exit out from the gym and enter the Shoe Locker room (Poker Face).
 
 ### After Flynn Leaves the Party (Fetching Leaders)
 - [ ] In Dahngrest, you can meet with Dyne a bit north from the inn. Go toward the intersection in Mantaic and go to Mt Temza to fight the Giganto Monster. Go back to speak with Dyne at the intersection in Mantaic (Guild Quest Part 6)
@@ -330,7 +328,7 @@ Here's the list of artes (thanks to **Massicot** from ResetEra!):
 - [ ] In Aurnion, if you have done (Estelle's Teacher Part 5) then talk to Drake at NE for Flynn's **Ideal Commandant** title (PS3 and Definitive Edition)
 - [ ] In Aurnion, find Drake at NE for Estelle's **Worldly Adventurer** title (Estelle's Teacher Part 6)
 - [ ] Set Raven as the On Screen Character and enter Aurnion. Speak with Drake at the right of the Blastia for Raven's Vanji Lost (Rebuilding The Union Final Part)
-- [ ] In Nam Cobanda Isle, speak with Miska in the Gym. To retrieve the five books, search the Elder's Home in Halure, Chevaliers HQ in Heliord, inn in Mantaic, Chevaliers HQ in Aurnion and Fortune's Market HQ in Capua Torim. Report back to Miska and answer the questions correctly for Rita's **Miska Doctoral Degree** title (Miska Doctoral Degree)
+- [ ] You can find Miska's last book in the Guard's HQ in Aurnion. Report back to Miska and answer the questions correctly for Rita's **Miska Doctoral Degree** title (Miska Doctoral Degree Final Part).
 - [ ] In Mantaic, go to the inn then to the inn in Dahngrest. Go to Nam Cobanda Isle and speak with the two at NW. Go to Zaphias and speak with the Guard by the Nobles Quarter. After, head into the Castle and speak with Mimula in the Jail Area. Head to Capua Nor and toward the east. Go to the Ghost Ship Atherum for a quick fight and go north after entering Caer Bocram. Go to the Union Jail Area in Dahngrest and feed the Old Man with Okonomiyaki recipe (Use Estelle to cook Fried Chicken And Fries repeatedly to unlock Scottish Egg then use Raven to cook Scottish Egg repeatedly to unlock Okonomiyaki recipe) to get the Note. Report back to Nobis in the inn of Mantaic (Guild Quest Part 7)
 - [ ] In Dahngrest, head toward the central area (Guild Quest Final Part)
 - [ ] After (Guild Quest Part 7), go toward the tree in Halure to get Rita's **Ivy Blade** (Spirit Magic Final Part)
@@ -339,6 +337,11 @@ Here's the list of artes (thanks to **Massicot** from ResetEra!):
 - [ ] In the Renansula Hollow, head towards the graveyard (PS3 and Definitive Edition)
 - [ ] Enter Relewiese Hollow for a scene with Sylph (PS3 and Definitive Edition)
 - [ ] Later, when you have completed 100% of the Collector's Book, head toward the fountain at the west in Halure. You will get Limits Bottle and Estelle's Item Mania title. Make sure you at least activate the part in Aspio NOW because you are JUST before the deadline (Collector's Book Final Part)
+
+**FAVORITE TOYS SIDEQUEST NOTE:** For PS3 and Definitive Edition, you need to wait until Flynn joins the party permanently for Hanks to show up in Zaphias.
+- [ ] Go to Yumanju and speak with the Man at the upper left for the Tiara. Check the upper left Toy Machine in Yumanju for three statues. Go to Zaphias and speak with Hanks for one more statue. For the last six statues, you get them through the Toy Machines in the Gym of Nam Cobanda Isle. There is one statue each from 10 Chip Machine and 500 Chip Machine then two statues each from 100 Chip Machine and 50 Chip Machine. With all the statues, report back to the Man in Yumanju for Yuri's **Recollection Guardian** title (Favorite Toys Final Part)
+- [ ] In Nam Cobanda Isle, speak with the Ant Lion near the entrance/exit after you have done (Favorite Toys Final Part). If you have opened up 445 (86%) Treasure Boxes, you will get Yuri's Treasure Hunter title (Treasure Hunter)
+
 
 ### Necropolis of Nostalgia
  - [ ] At the first area, **Firmament**, you can find Flynn's Fell Weapon **Seven-Branched Blade** at the NW of the 8F. At the second area, **Existence**, you can find Patty's Fell Weapon **Corbis** at the SE of 9F. After beating **Ohma**, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
