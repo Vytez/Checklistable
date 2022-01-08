@@ -287,17 +287,22 @@ Flynn must use every arte to unlock Secret Mission 23. Flynn will use his Mystic
 - [ ] Luminant Scythe (Spell Arte)
 - [ ] Radiant Dragon Fang (Mystic Arte)
 
-### After Aurnion
+### Before Tarqaron
 Throughout Aurnion there are many sidequests that may or may not trigger depending on your progress. If a sidequest doesn't trigger, skip it and complete other sidequests (possibly out of the order listed).  
 
+#### Aurnion
 * You will automatically obtain **Vesperia No.2** and Flynn will join the party **permanently**.
-- [ ] Enter Aurnion and Yuri will learn **Final Gale** from Flynn (Sword Friend).
-- [ ] In Aurnion, toward the left of the blastia when Repede is at least level 60 to get Repede's **Tough Hound** title (Tough Hound).
-- [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits)
-- [ ] Sail to the west of the Manor of the Wicked to find a Harvest Point. Check it to get the **Leoluca** for Patty (PS3)
+- [ ] Enter the city and Yuri will learn **Final Gale** from Flynn (Sword Friend).
+- [ ] Toward the left of the blastia when Repede is at least level 60 to get Repede's **Tough Hound** title (Tough Hound).
+- [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits).
+
+#### Zaphias
 - [ ] In Zaphias, enter the inn for Patty's **Amazing Chef** title (PS3 and Definitive Edition)
 - [ ] In Zaphias, check the Fountain (PS3 and Definitive Edition)
 - [ ] In Zaphias, approach the sitting bench on the right side in the Public Quarter for a scene with Lune (Dark Enforcer Final Part)
+
+
+- [ ] Sail to the west of the Manor of the Wicked to find a Harvest Point. Check it to get the **Leoluca** for Patty (PS3)
 - [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title. With the Letter of Challenge (H. Blades) and if you have cleared (Avenging Soldiers Final Part) previously, you may clear the 100 Man Melee and get the reward. Be sure to clear 100 Man Melee with at least three characters since it is one of the conditions to unlock 200 Man Melee (Golden Soldier)
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end (PS3 and Definitive Edition)
 - [ ] If you talk to the left Receptionist at the Arena, you can enter the **Tag Team Tournament- Challenger** (PS3 and Definitive Edition)
