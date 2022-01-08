@@ -292,6 +292,7 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 
 * You will automatically obtain **Vesperia No.2** and Flynn will join the party **permanently**.
 - [ ] Enter Aurnion and Yuri will learn **Final Gale** from Flynn (Sword Friend).
+- [ ] In Aurnion, toward the left of the blastia when Repede is at least level 60 to get Repede's **Tough Hound** title (Tough Hound).
 - [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits)
 - [ ] Sail to the west of the Manor of the Wicked to find a Harvest Point. Check it to get the **Leoluca** for Patty (PS3)
 - [ ] In Zaphias, enter the inn for Patty's **Amazing Chef** title (PS3 and Definitive Edition)
@@ -319,7 +320,6 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] Go to Mt Temza and head to the third area for Judith's **Sundering Moon** (Judith's Sundering Moon Final Part)
 - [ ] Fly to the Yurzorea Continent East and enter the rock formation for the Sorcerer Ring Level 5 (Fell Arms Part 6)
 - [ ] In Yumanju, you can get the Hotspring Series titles (Hotspring Part 3)
-- [ ] In Aurnion, toward the left of the Blastia when Repede is at least Level 60 to get Repede's **Tough Hound** title (Tough Hound)
 - [ ] After (Tough Hound), sleep at King Of Adventure twice to get Repede's **Shining Fang**, **Order of the Loyal Hound** and Repede's **Ultimate Dog Warrior** title (King Of Adventure Final Part)
 - [ ] In Aurnion, find Drake at NW for Yuri's **Certified Soldier** title (Estelle's Teacher Part 5)
 - [ ] Enter Aurnion and you will get Raven's **Shining Star** title if Raven has at least 100 Skills (Encouragement Of The Schwann Team Part 1)
