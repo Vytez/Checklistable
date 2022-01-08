@@ -297,18 +297,25 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits).
 
 #### Zaphias
-- [ ] In Zaphias, enter the inn for Patty's **Amazing Chef** title (PS3 and Definitive Edition)
-- [ ] In Zaphias, check the Fountain (PS3 and Definitive Edition)
-- [ ] In Zaphias, approach the sitting bench on the right side in the Public Quarter for a scene with Lune (Dark Enforcer Final Part)
+- [ ] Check the fountain for a scene.
+- [ ] Approach the sitting bench on the right side in the Public Quarter for a scene with Lune (Dark Enforcer Final Part).
+- [ ] Enter the inn for Patty's **Amazing Chef** title.
+
+#### Halure
+- [ ] Enter Halure (Under The Tree Final Part).
+- [ ] Head toward the tree and speak with a mage on the way if your party has inflicted over 60,000,000 damage in total. You will get Rita's **Seeker** title (Seeker).
+
+#### Keiv Moc
+- [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title. With the Letter of Challenge (H. Blades) and if you have cleared (Avenging Soldiers Final Part) previously, you may clear the 100 Man Melee and get the reward. Be sure to clear 100 Man Melee with at least three characters since it is one of the conditions to unlock 200 Man Melee (Golden Soldier)
 
 
 - [ ] Sail to the west of the Manor of the Wicked to find a Harvest Point. Check it to get the **Leoluca** for Patty (PS3)
-- [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title. With the Letter of Challenge (H. Blades) and if you have cleared (Avenging Soldiers Final Part) previously, you may clear the 100 Man Melee and get the reward. Be sure to clear 100 Man Melee with at least three characters since it is one of the conditions to unlock 200 Man Melee (Golden Soldier)
+
+#### Nordopolica
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end (PS3 and Definitive Edition)
 - [ ] If you talk to the left Receptionist at the Arena, you can enter the **Tag Team Tournament- Challenger** (PS3 and Definitive Edition)
 - [ ] Enter Aurnion for the **Letter of Challenge (Flynn)** (Rest at Yuri's Room in Zaphias for the PS3 and Definitive Edition). If you have cleared (Golden Soldier) and (Avenging Soldiers Final Part), you have three out of the four Invitations now (Arena Final Part)
-- [ ] Enter Halure (Under The Tree Final Part)
-- [ ] In Halure, toward the tree and speak with a Mage on the way if your party has inflicted over 60000000 damage in total. You will get Rita's **Seeker** title (Seeker)
+
 - [ ] In Heliord, go down to the Lower Section. Find Sicily by the river for **Murakumo** if Repede is above Level 50. You will get this together with Repede's Joke Weapon at Halure after fulfilling Repede's motivational sidequest if you miss the scene (Professor Sicily Part 5)
 - [ ] In Halure, speak with Sicily near the inn for **Joke Weapons** if you have completed the requirement. In the PS3 and Definitive Edition, you need to clear the 30 Man Melee under 90 seconds for Flynn and synthesis two hundred times for Patty (Professor Sicily Final Part)
 - [ ] In Capua Nor, you can find Nan if you have completed 100% of the Monster Book. You will get Karol's **Manly Man** title (Monster Book Final Part)
