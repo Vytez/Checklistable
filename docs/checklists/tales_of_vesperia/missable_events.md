@@ -301,9 +301,13 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] Approach the sitting bench on the right side in the Public Quarter for a scene with Lune (Dark Enforcer Final Part).
 - [ ] Enter the inn for Patty's **Amazing Chef** title.
 
+#### Heliord
+- [ ] In Heliord, go down to the Lower Section. Find Sicily by the river for **Murakumo** if Repede is above Level 50. You will get this together with Repede's Joke Weapon at Halure after fulfilling Repede's motivational sidequest if you miss the scene (Professor Sicily Part 5).
+
 #### Halure
 - [ ] Enter Halure (Under The Tree Final Part).
 - [ ] Head toward the tree and speak with a mage on the way if your party has inflicted over 60,000,000 damage in total. You will get Rita's **Seeker** title (Seeker).
+- [ ] Talk to Sicily near the inn to start **(Joke Weapons)[#joke-weapons-sidequest]**.
 
 #### Keiv Moc
 - [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title. With the Letter of Challenge (H. Blades) and if you have cleared (Avenging Soldiers Final Part) previously, you may clear the 100 Man Melee and get the reward. Be sure to clear 100 Man Melee with at least three characters since it is one of the conditions to unlock 200 Man Melee (Golden Soldier)
@@ -316,8 +320,6 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] If you talk to the left Receptionist at the Arena, you can enter the **Tag Team Tournament- Challenger** (PS3 and Definitive Edition)
 - [ ] Enter Aurnion for the **Letter of Challenge (Flynn)** (Rest at Yuri's Room in Zaphias for the PS3 and Definitive Edition). If you have cleared (Golden Soldier) and (Avenging Soldiers Final Part), you have three out of the four Invitations now (Arena Final Part)
 
-- [ ] In Heliord, go down to the Lower Section. Find Sicily by the river for **Murakumo** if Repede is above Level 50. You will get this together with Repede's Joke Weapon at Halure after fulfilling Repede's motivational sidequest if you miss the scene (Professor Sicily Part 5)
-- [ ] In Halure, speak with Sicily near the inn for **Joke Weapons** if you have completed the requirement. In the PS3 and Definitive Edition, you need to clear the 30 Man Melee under 90 seconds for Flynn and synthesis two hundred times for Patty (Professor Sicily Final Part)
 - [ ] In Capua Nor, you can find Nan if you have completed 100% of the Monster Book. You will get Karol's **Manly Man** title (Monster Book Final Part)
 - [ ] In Capua Torim, talk to the Sailor near the slide. Patty will learn **Critical Moment** (PS3 and Definitive Edition)
 - [ ] Enter Capua Torim from the western entrance/exit for Karol to learn **Rending Drop** (One Night Training)
@@ -356,6 +358,18 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 
 ### Necropolis of Nostalgia
  - [ ] At the first area, **Firmament**, you can find Flynn's Fell Weapon **Seven-Branched Blade** at the NW of the 8F. At the second area, **Existence**, you can find Patty's Fell Weapon **Corbis** at the SE of 9F. After beating **Ohma**, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
+
+### Joke Weapons Sidequest
+Sicily will set your party a number of tasks to perform "motivational" acts. 
+- [ ] Yuri: Get a combo of 200 hits or more in any battle.
+- [ ] Estelle: Get 35 Grade or more in any one battle.
+- [ ] Karol: Run away from 50 or more battles.
+- [ ] Rita: Unsure. Do a large amount of damage.
+- [ ] Raven: Have 1,000,000 or more gald on hand.
+- [ ] Judith: Win 1,000 or more battles.
+- [ ] Repede: With any one battle in under two seconds.
+- [ ] Flynn: Finish the Colosseum's 30-man melee in under 90 seconds.
+- [ ] Patty: Synthesize 200 or more items.
 
 ### Sword Dancer Sidequest (PS3 and Definitive Edition)
 - [ ] Enter Capua Nor and talk to **Hisca and Chastel** from _Tales of Vesperia: The First Strike_ movie.

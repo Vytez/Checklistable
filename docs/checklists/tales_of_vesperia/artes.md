@@ -1,9 +1,7 @@
 # Tales of Vesperia
 - Source: [Tales of Vesperia Reference Guide - Artes](https://hyouta.com/vesperia/?section=artes)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Altered Artes Guide](#altered-artes))
+## Jump to Character
 - [Yuri](#yuri)
 - [Estelle](#estelle)
 - [Karol](#karol)
