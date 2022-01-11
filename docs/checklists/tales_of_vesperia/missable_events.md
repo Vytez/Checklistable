@@ -11,7 +11,7 @@
 ### Zaphias
 
 - [ ] Automatically obtain **Wonder Log** (Wonder Reporter Part 1).
-- [ ] Monster Book entries: **Adecor** and **Boccos** in tutorial fight. 
+- [ ] Monster Book entries: **Adecor** and **Boccos** in tutorial fight.
 
 ### World Map
 
@@ -84,7 +84,7 @@ After Estelle rejoins:
 - [ ] At the north of Halure or west of Aspio, you can find the travelers' inn King of Adventure. Talk to Rich if you have beaten Green Menace. Rest for more talk with Rich (King Of Adventure Part 3). Make sure to do this before killing any additional Giganto Monsters.
 - [ ] In Halure, talk to the kids under the tree to get the attachment **Veil** (Under The Tree Part 2).
 - [ ] In Halure, talk to Sicily in front of the inn for Raven to learn **Arrivederci** (Professor Sicily Part 1).
-- [ ] In Deidon Hold, arrange the warehouse for Miracle Gel, Limit Bottle, Spicy Bottle, and 2,000 gald as the reward (Tidy Up The Warehouse Part 1). 
+- [ ] In Deidon Hold, arrange the warehouse for Miracle Gel, Limit Bottle, Spicy Bottle, and 2,000 gald as the reward (Tidy Up The Warehouse Part 1).
 - [ ] In Zaphias, talk to an old woman in the Lower Quarter to trigger a scene involving a cat. Go north to find Estelle and Rita. Go to the Nobles Quarter to find Estelle and Rita again to conclude the event.
 - [ ] In Zaphias, head toward the Nobles Quarter to trigger a conversation with a man named Shel. Go on to the west to talk to Shel again. Back track to the Public Quarter and talk to Lune who is sitting on a bench. Yuri will learn **Tiger Blade** and the **Kingdom Celeb** title (Dark Enforcer Part 2).
 - [ ] In Capua Nor, go west and find Sicily for Raven to learn the **Vacance** skill and his **Twilight Dreamer** title (Professor Sicily Part 2).
@@ -193,6 +193,7 @@ After Estelle rejoins:
 - [ ] Monster Book entry: **Capiora**, a mimic treasure chest.
 
 ### Blade Drifts of Zopheir
+
 - [ ] Monster Book entry: **Baitojoh**. Use a lens before and after the party rejoins for both entries.
 
 ### On the way to Zaphias
@@ -305,26 +306,31 @@ After Estelle rejoins:
 - [ ] When Patty goes off at nighttime, follow her to the west and toward the port behind the mansion. Get on the boat to the Atherum. Go up to the deck and when fighting Cursed Wanderer, ***use the Maris Stella*** (Secret Mission 20).
 
 ### After Capua Nor
+
 - [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the City of the Waning Moon. Go to the last area in Zaude and you will be able to enter the Necropolis of Nostalgia. This is a late game, optional dungeon that can be completed at any time.
 - [ ] When flying near Zaphias, you may trigger a scene where Judith will ask to visit the capital. **Enter the city through the Lower Quarter** to trigger a scene near the fountain, then head toward the castle (Future of Blastia).
 - [ ] In Zaphias, sleep in Yuri's Room to trigger a scene where Rita gets **Estelle's Best Friend** title and Estelle gets **Best Friends** title.
 - [ ] In Capua Torim, you can now enter the Lighthouse which is Patty's home.
 
 #### Nam Cobanda Isle unlocks
+
 - The isle is located in the northwest of the map, and is available once Tarqaron rises.
 - [ ] Enter the gym and speak with Miska. This will initiate a quest to retrieve five books. Four of these are located at the Elder's House in Halure; the Guard's HQ in Heliord, the inn in Mantaic, and Fortune's Market HQ in Capua Torim. The last book is not available yet. (Miska Doctoral Degree Part 1).
 - [ ] Enter the gym and speak with the Cow Boy at the Poker Table. Exit out and enter back into the gym to trigger a scene with Kaufman. Judith will enter a poker match. Whether you win or lose the match, Judith will get the **Legendary Gambler** title.
 - [ ] Enter the gym. Speak with the cow boy at the Chip Exchange and Poker Table and the ant lion by the Toy Machines. Trade in over 250,000 worth of chips for prizes in order to get Judith's **Poker Face** title. Exit out from the gym and enter the Shoe Locker room (Poker Face). Best way to earn chips is just playing the poker game and doubling down on your bets.
 
 ### After Saving Flynn in Hypionia
+
 - [ ] In Dahngrest, you can meet with Dyne a bit north from the inn. Go toward the intersection in Mantaic and go to Mt Temza to fight the Giganto Monster. Go back to speak with Dyne at the intersection in Mantaic (Guild Quest Part 6).
 - [ ] In Capua Torim, sleep at the inn to see Karol's Dream. **Karol must have the Girly costume title and not be wearing it before sleeping at the inn**.
 - [ ] In Nam Cobanda Isle, head in the Gym and speak with the Woman near the Stage to get the Drama Series titles and Estelle's **Hero's Sword** and **Shield of Valor** (Drama Lovers).
 
 ### Flynn
+
 Flynn must use every arte to unlock Secret Mission 23. Flynn will use his Mystic Arte, ***Radiant Dragon Fang*** when Yuri uses his Mystic Arte. The best way to unlock the Secret Mission is to equip **Compact Sword +1** which has the Minimum Damage skill to prolong the battle. Once unlocked, switch to a better weapon to finish off the battle. Alternatively, you can redo this battle for the Secret Mission achievement at Nam Cobanda Isle.
 
 #### List of Artes
+
 - [ ] Rising Falcon
 - [ ] Sonic Thrust
 - [ ] Dragon Swarm
@@ -343,47 +349,59 @@ Flynn must use every arte to unlock Secret Mission 23. Flynn will use his Mystic
 - [ ] Radiant Dragon Fang (Mystic Arte)
 
 ### Before Tarqaron
-Throughout Aurnion there are many sidequests that may or may not trigger depending on your progress. If a sidequest doesn't trigger, skip it and complete other sidequests (possibly out of the order listed).  
+
+At this point in the game there are many sidequests that may or may not trigger depending on your progress. If a sidequest doesn't trigger, skip it and complete other sidequests (possibly out of the order listed).  
 
 #### Aurnion
-* You will automatically obtain **Vesperia No.2** and Flynn will join the party **permanently**.
+
+- You will automatically obtain **Vesperia No.2** and Flynn will join the party **permanently**.
+
 - [ ] Enter the city and Yuri will learn **Final Gale** from Flynn (Sword Friend).
 - [ ] Toward the left of the blastia when Repede is at least level 60 to get Repede's **Tough Hound** title (Tough Hound).
 - [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits).
 - [ ] Enter Aurnion and you will get Raven's **Shining Star** title if Raven has at least 100 Skills (Encouragement Of The Schwann Team Part 1).
 
 #### Open World
+
 - [ ] Sail to the west of Nordopolica to find a harvest point. Check it to earn Patty's **Head-turner** title.
 - [ ] Sail to the west of the Manor of the Wicked to find a harvest point. Check it to get the **Leoluca** for Patty.
 
-#### Zaphias
+#### Zaphias (4)
+
 - [ ] Check the fountain for a scene.
 - [ ] Approach the sitting bench on the right side in the Public Quarter for a scene with Lune (Dark Enforcer Final Part).
 - [ ] Rest at Yuri's room for **Letter of Challenge (Flynn)**.
 - [ ] Enter the inn for Patty's **Amazing Chef** title.
 
-#### Heliord
+#### Heliord (3)
+
 - [ ] In Heliord, go down to the Lower Section. Find Sicily by the river for **Murakumo** if Repede is above Level 50. You will get this together with Repede's Joke Weapon at Halure after fulfilling Repede's motivational sidequest if you miss the scene (Professor Sicily Part 5).
 
 #### Halure
+
 - [ ] Enter Halure (Under The Tree Final Part).
 - [ ] Head toward the tree and speak with a mage on the way if your party has inflicted over 60,000,000 damage in total. You will get Rita's **Seeker** title (Seeker).
-- [ ] Talk to Sicily near the inn to start (Joke Weapons)[#joke-weapons-sidequest].
+- [ ] Talk to Sicily near the inn to start [Joke Weapons](#joke-weapons-sidequest).
 
-#### Keiv Moc
+#### Keiv Moc (2)
+
 - [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title.
 
-#### Capua Nor
+#### Capua Nor (2)
+
 - [ ] If you have completed 100% of the Monster Book, you can find Nan to get Karol's **Manly Man** title.
 
-#### Capua Torim
+#### Capua Torim (5)
+
 - [ ] Enter from the western entrance for Karol to learn **Rending Drop**. Then go to Dahngrest and head towards the central area. Pick either choice for Karol's **Infinity**.
 - [ ] Talk to the sailor near the slide. Patty will learn the arte **Critical Moment**.
 
-#### Yumanju
+#### Yumanju (2)
+
 - [ ] Talk to the receptionist, then talk to each of your party members to get the spa series of titles.
 
-#### Nordopolica
+#### Nordopolica (Colosseum)
+
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end.
 - [ ] If you talk to the left Receptionist at the Arena, you can enter the **Tag Team Tournament - Challenger**.
 
