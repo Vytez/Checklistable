@@ -322,18 +322,19 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] If you have completed 100% of the Monster Book, you can find Nan to get Karol's **Manly Man** title.
 
 #### Capua Torim
-- [ ] Enter from the western entrance for Karol to learn **Rending Drop**.
+- [ ] Enter from the western entrance for Karol to learn **Rending Drop**. Then go to Dahngrest and head towards the central area. Pick either choice for Karol's **Infinity**.
 - [ ] Talk to the sailor near the slide. Patty will learn the arte **Critical Moment**.
 
 #### Nordopolica
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end.
 - [ ] If you talk to the left Receptionist at the Arena, you can enter the **Tag Team Tournament - Challenger**.
 
+
+
 - [ ] In Caer Bocram, go north then go west all the way to fight Clint. You will get the **Letter of Challenge (H. Blades) 2** (PS3 and Definitive Edition)
 - [ ] With the Letter of Challenge (H. Blades) 2 and if you have cleared **Tag Team Tournament- Challenger** at the Arena, you will unlock **Tag Team Tournament- Hero**.
 - [ ] Clear **Tag Team Tournament- Hero** _Without Karol in the party_. Make sure to save before entering the tournament. After clearing the tournament, you will be awarded with Karol's **Small Knight** title. If you do this fight even once with Karol in the party, you will not be able to obtain the title on this playthrough unless you load an older save files. If you don't have Karol and Raven in the Active Party, you will fight them in **Tag Team Tournament- Hero** (PS3 and Definitive Edition)
 - [ ] In Heliord, go down to the Lower Section and talk to Witcher. Barrelow X will be modified which unlocks Karol's second Mystic Artes, **Mega Flashbang Ultra X Bomber** (PS3 and Definitive Edition)
-- [ ] After (One Night Training), go to Dahngrest. Head towards the central area and pick either choice for Karol's very own Keyblade I mean **Infinity** (Big Voice Contest)
 - [ ] After obtaining all recipes from Wonder Chef and unlocking recipes, go to the Port in Nordopolica to talk to Wonder Chef for **Mabo Curry recipe** and the **Cooking Match Invitation**. Go to Dahngrest to enter The Bistro Black Hole. The participant should have **MASTERED** every HP/TP Recovery recipes and at least Three Stars for the other recipes. That will win you the Cooking Series titles (Cooking Battle)
 - [ ] In Yormgen, check the Red Box (Illusion)
 - [ ] In Yormgen, speak with the Butler of the Nobles. Enter the Zopheir Rift from the west and you will see the Micro Circuit. Report back and the male characters will get their Swimsuit Series titles. Talk to the Butler and go to Halure. Go west and talk to Giovanni near the Fountain for the Super Aer Board. Report back and the female characters will get their Swimsuit Seies titles (PS3 and Definitive Edition)
