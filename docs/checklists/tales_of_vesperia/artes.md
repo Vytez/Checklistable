@@ -1,7 +1,9 @@
 # Tales of Vesperia
+
 - Source: [Tales of Vesperia Reference Guide - Artes](https://hyouta.com/vesperia/?section=artes)
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Altered Artes Guide](#altered-artes))
 - [Yuri](#yuri)
@@ -15,6 +17,7 @@
 - [Flynn](#flynn)
 
 ## Introduction
+
 Artes are physical and magical attacks that can be used in battle in addition to normal attacks. Some artes are learned automatically upon leveling up, others have special requirements that must be met before they can be learned.
 
 Altered artes are a specific set of artes that are learned by equipping certain skills. You can permanently learn these artes by using them a certain number of times (50x for magical artes, 100x for physical artes).
@@ -29,7 +32,9 @@ Burst Artes are granted automatically through the story, and are only able to be
 Mystic Artes are a further tier of artes usable in over limit. Each character has one Mystic Arte granted by the "Special" skill, available in the second half of the game. Characters may also have additional Mystic Artes that are unlockable under certain conditions.
 
 ## Yuri
-### Source: Level
+
+### Yuri Leveling Artes
+
 - [ ] Azure Edge (1)
 - [ ] Cerberus Strike (7)
 - [ ] Fang Strike (9)
@@ -51,7 +56,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Wailing Blast (52): Requires 50 uses each of Destruction Field and Wailing Havoc.
 - [ ] Rending Wolf Charge (56): Requires 50 uses each of Brutal Fang and Lone Wolf Charge.
 
-### Source: Skills (Altered Artes)
+### Yuri Altered Artes
+
 - [ ] Azure Storm (Azure Edge): Chain
 - [ ] Azure Blast (Azure Edge): Crucible
 - [ ] Cerberus Blast (Cerberus Strike): Alembic
@@ -62,7 +68,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Lone Wolf Storm (Lone Wolf Charge): Gale
 - [ ] Frigid Blast (Final Gale): Great Deluge
 
-### Source: Event/Sidequest
+### Yuri Event and Sidequest Artes
+
 - [ ] Tiger Blade: Available after getting the Fiertia.
 - [ ] Shining Eagle: Available after first arriving in Nordopolica.
 - [ ] Final Gale: Available after Aurnion.
@@ -72,7 +79,9 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Heavenly Bladewing: Mystic Arte, only available from 2nd playthrough on.
 
 ## Estelle
-### Source: Level
+
+### Estelle Leveling Artes
+
 - [ ] First Aid (1)
 - [ ] Sharpness (7)
 - [ ] Pow Hammer (9)
@@ -96,7 +105,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Revitalize (54)
 - [ ] Holy Lance (57)
 
-### Source: Skills (Altered Artes)
+### Estelle Altered Artes
+
 - [ ] Blazing Pillar (Star Stroke): Hell Fire
 - [ ] Amenes Sorbe (Cavalry): Athenor
 - [ ] Air Divide (Dividing Edge): Alembic
@@ -109,15 +119,18 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Nightingale (Nurse): Crucible
 - [ ] Holy Rain (Holy Lance): Great Deluge
 
-### Source: Event/Sidequest
+### Estelle Event and Sidequest Artes
+
 - [ ] Astion: Available after Zaude.
 - [ ] Force Field: Available after the birth of Undine.
 - [ ] Extreme Stars: Burst Arte.
 - [ ] Sacred Penance: Mystic Arte.
-- [ ] Ultimate Elementia: Mystic Arte. 
+- [ ] Ultimate Elementia: Mystic Arte.
 
 ## Karol
-### Source: Level
+
+### Karol Leveling Artes
+
 - [ ] Dragon Upper (1)
 - [ ] Destroying Rock (12)
 - [ ] Nice Aid Smash (14)
@@ -139,7 +152,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Devil Rage Rise (49)
 - [ ] Ultimate Divine Destruction (55)
 
-### Source: Skills (Altered Artes)
+### Karol Altered Artes
+
 - [ ] Destruction Street (Destroying Rock): Alembic
 - [ ] Nice Healing Smash (Nice Aid Smash): Great Deluge
 - [ ] Nice Curing Smash (Nice Healing Smash): Great Deluge, Crucible
@@ -152,7 +166,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Diablo Hyper Buster (Reaper Knock): Crucible
 - [ ] Death Quake Spark (Ultimate Divine Destruction): Athenor
 
-### Source: Event/Sidequest
+### Karol Event and Sidequest Artes
+
 - [ ] Bug Breath: Available when sent to Keiv Moc.
 - [ ] Rending Drop: Available after Aurnion.
 - [ ] Ultra Punishing Swing: Burst Arte.
@@ -160,7 +175,9 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Mega Flashbang Ultra X Bomber: Mystic Arte.
 
 ## Rita
-### Source: Level
+
+### Rita Leveling Artes
+
 - [ ] Fire Ball (1)
 - [ ] &beta;x&Psi;=&radic; (5)
 - [ ] Stone Blast (8)
@@ -181,7 +198,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Tidal Wave (52)
 - [ ] Crimson Flare (58)
 
-### Source: Skills (Altered Artes)
+### Rita Altered Artes
+
 - [ ] &int;&nabla;=&Sigma;(&omega;&pi;) (&xi;x&Psi;=&Phi;): Chain
 - [ ] &angle; = (r, &theta;, &phi;) (&angle;=(x,y,z)): Crucible
 - [ ] A = lk{&lambda;&epsilon;&Delta;} ((&delta;/&chi;)&lambda;=&iota;): Hell Fire
@@ -196,7 +214,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Bloody Howling (Violent Pain): Dispersion, Crucible
 - [ ] Thunder Blade (Blade Roll): Hell Fire, Gale
 
-### Source: Event/Sidequest
+### Rita Event and Sidequest Artes
+
 - [ ] Negative Gate: Available after Mt. Temza.
 - [ ] Meteor Storm: Available after fending off threats from Nordopolica.
 - [ ] Mystic Drive: Burst Arte.
@@ -204,7 +223,9 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Indignation: Mystic Arte.
 
 ## Raven
-### Source: Level
+
+### Raven Leveling Artes
+
 - [ ] Rain (1)
 - [ ] Wind Blade (8)
 - [ ] Bouquet (15)
@@ -224,7 +245,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Havoc Gale (56)
 - [ ] The Wind's Howl (58)
 
-### Source: Skills (Altered Artes)
+### Raven Altered Artes
+
 - [ ] Rainsong (Rain): Crucible
 - [ ] Firefly (Serpent): Alembic
 - [ ] Rain Down (Glimmer of Heaven): Gale
@@ -239,7 +261,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Tempest (Havoc Gale): Hell Fire, Crucible
 - [ ] Stop Flow (Vanji Lost): Hell Fire, Athenor, Gale, Great Deluge
 
-### Source: Event/Sidequest
+### Raven Event and Sidequest Artes
+
 - [ ] Arrivederci: Available after getting the Fiertia.
 - [ ] Vanji Lost: Available after Aurnion.
 - [ ] Fury Blast: Burst Arte.
@@ -247,7 +270,9 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Crisis Rain: Mystic Arte.
 
 ## Judith
-### Source: Level
+
+### Judith Leveling Artes
+
 - [ ] Crescent Moon (1)
 - [ ] Luna Fang (12)
 - [ ] Moonlight Havoc (14)
@@ -269,7 +294,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Luna Havoc (60)
 - [ ] Moon Glare (64)
 
-### Source: Skills (Altered Artes)
+### Judith Altered Artes
+
 - [ ] Luna Talon (Luna Fang): Athenor
 - [ ] Guiding Moon (Crescent Strike): Great Deluge
 - [ ] Moonlit Knife (New Moon Blade): Crucible
@@ -281,7 +307,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Thunder Moon (Luna Crush): Hell Fire, Gale
 - [ ] Luna Storm (Luna Havoc): Hell Fire, Alembic
 
-### Source: Event/Sidequest
+### Judith Event and Sidequest Artes
+
 - [ ] Moonlight Talon: Available in Mantaic.
 - [ ] Sundering Moon: Available after Aurnion.
 - [ ] Ashen Moonlight: Burst Arte
@@ -289,7 +316,9 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Dragon's Moon Spear: Mystic Arte
 
 ## Repede
-### Source: Level
+
+### Repede Leveling Artes
+
 - [ ] Sonic Dog (1)
 - [ ] Crescent Fang (7)
 - [ ] Punishing Fang (12)
@@ -309,7 +338,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Hell Hound Return (51): Requires 50 uses each of Hell Hound and Sonic Return.
 - [ ] Ghost Wolf (58)
 
-### Source: Skills (Altered Artes)
+### Repede Altered Artes
+
 - [ ] Lightning Dog (Sonic Dog): Hell Fire, Gale
 - [ ] Punishing Air Fang (Punishing Fang): Dispersion
 - [ ] Snatch Item (Thievery): Chain
@@ -322,14 +352,17 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Shadow Fang Weave (Shadow Fang Punishment): Gale
 - [ ] Phantom Glacier (Phantom Fang): Great Deluge, Gale
 
-### Source: Event/Sidequest
+### Repede Event and Sidequest Artes
+
 - [ ] Shining Fang: Available after Aurnion.
 - [ ] Divine Dog: Burst Arte.
 - [ ] Slash!!: Mystic Arte
 - [ ] Lightning Flash: Mystic Arte
 
 ## Patty
-### Source: Level
+
+### Patty Leveling Artes
+
 - [ ] Form Change (1)
 - [ ] Variable Trigger (8)
 - [ ] Trick Trick (12)
@@ -346,7 +379,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Card Gamble (48)
 - [ ] Dream Star (54)
 
-### Source: Skills (Altered Artes)
+### Patty Altered Artes
+
 - [ ] Trigger Tune (Varible Trigger): Chain
 - [ ] Trick or Treat (Trick Trick): Crucible
 - [ ] Falling Ice (Random Fall): Great Deluge
@@ -356,14 +390,17 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Big Risk (Risky Cast): Dispersion
 - [ ] Mahjong (Card Gamble): Athenor
 
-### Source: Event/Sidequest
+### Patty Event and Sidequest Artes
+
 - [ ] Search Gald: Available after the death of Belius.
 - [ ] Critical Moment: Available after Aurnion.
 - [ ] Glittery Rain: Burst Arte.
 - [ ] Summon Friends: Mystic Arte.
 
 ## Flynn
-### Source: Level
+
+### Flynn Leveling Artes
+
 - [ ] Demon Fang (1)
 - [ ] Sonic Thrust (8)
 - [ ] First Aid (9)
@@ -382,7 +419,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Divine Streak (54)
 - [ ] Holy Lance (60)
 
-### Source: Skills (Altered Artes)
+### Flynn Altered Artes
+
 - [ ] Tiger Rage (Tiger Blade): Chain, Gale
 - [ ] Rising Phoenix (Rising Falcon): Crucible, Hell Fire
 - [ ] Fierce Hell Fire Blade (Hell Fire Blade): Crucible, Hell Fire
@@ -392,7 +430,8 @@ Mystic Artes are a further tier of artes usable in over limit. Each character ha
 - [ ] Cure (First Aid): Great Deluge
 - [ ] Mistral Soul (Luminant Scythe): Gale
 
-### Source: Event/Sidequest
+### Flynn Event and Sidequest Artes
+
 - [ ] Dazzling Spin: Available after Aurnion.
 - [ ] Blazing Pillar Smash: Burst Arte.
 - [ ] Radiant Dragon Fang: Mystic Arte.
