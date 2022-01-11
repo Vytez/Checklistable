@@ -354,8 +354,7 @@ At this point in the game there are many sidequests that may or may not trigger 
 
 #### Aurnion
 
-- You will automatically obtain **Vesperia No.2** and Flynn will join the party **permanently**.
-
+- [ ] You will automatically obtain **Vesperia No.2** and Flynn will join the party **permanently**.
 - [ ] Enter the city and Yuri will learn **Final Gale** from Flynn (Sword Friend).
 - [ ] Toward the left of the blastia when Repede is at least level 60 to get Repede's **Tough Hound** title (Tough Hound).
 - [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits).
