@@ -325,6 +325,9 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] Enter from the western entrance for Karol to learn **Rending Drop**. Then go to Dahngrest and head towards the central area. Pick either choice for Karol's **Infinity**.
 - [ ] Talk to the sailor near the slide. Patty will learn the arte **Critical Moment**.
 
+#### Yumanju
+- [ ] Talk to the receptionist, then talk to each of your party members to get the spa series of titles.
+
 #### Nordopolica
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end.
 - [ ] If you talk to the left Receptionist at the Arena, you can enter the **Tag Team Tournament - Challenger**.
@@ -340,7 +343,6 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] In Yormgen, speak with the Butler of the Nobles. Enter the Zopheir Rift from the west and you will see the Micro Circuit. Report back and the male characters will get their Swimsuit Series titles. Talk to the Butler and go to Halure. Go west and talk to Giovanni near the Fountain for the Super Aer Board. Report back and the female characters will get their Swimsuit Seies titles (PS3 and Definitive Edition)
 - [ ] Go to Mt Temza and head to the third area for Judith's **Sundering Moon** (Judith's Sundering Moon Final Part)
 - [ ] Fly to the Yurzorea Continent East and enter the rock formation for the Sorcerer Ring Level 5 (Fell Arms Part 6)
-- [ ] In Yumanju, you can get the Hotspring Series titles (Hotspring Part 3)
 - [ ] After (Tough Hound), sleep at King Of Adventure twice to get Repede's **Shining Fang**, **Order of the Loyal Hound** and Repede's **Ultimate Dog Warrior** title (King Of Adventure Final Part)
 - [ ] In Aurnion, find Drake at NW for Yuri's **Certified Soldier** title (Estelle's Teacher Part 5)
 - [ ] In Aurnion, speak with the Doctor in the inn. Reenter the inn and speak with the Doctor again. Speak with the Man that is near the inn Owner. Once your party have healed at least 4000000 HPs, toward the inn for Estelle's **Dedicated Paramedic** title (Dedicated Paramedic)
