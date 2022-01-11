@@ -354,7 +354,7 @@ At this point in the game there are many sidequests that may or may not trigger 
 
 #### Aurnion
 
-- [ ] You will automatically obtain **Vesperia No.2** and Flynn will join the party **permanently**.
+- You will automatically obtain **Vesperia No.2** and Flynn will join the party **permanently**.
 - [ ] Enter the city and Yuri will learn **Final Gale** from Flynn (Sword Friend).
 - [ ] Toward the left of the blastia when Repede is at least level 60 to get Repede's **Tough Hound** title (Tough Hound).
 - [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits).
@@ -386,6 +386,10 @@ At this point in the game there are many sidequests that may or may not trigger 
 
 - [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title.
 
+#### Caer Bocram
+
+- [ ] Go north to the first intersection then go west all the way to fight Clint. You will get the **Letter of Challenge (Clint)**.
+
 #### Capua Nor (2)
 
 - [ ] If you have completed 100% of the Monster Book, you can find Nan to get Karol's **Manly Man** title.
@@ -406,7 +410,6 @@ At this point in the game there are many sidequests that may or may not trigger 
 
 
 
-- [ ] In Caer Bocram, go north then go west all the way to fight Clint. You will get the **Letter of Challenge (H. Blades) 2** (PS3 and Definitive Edition)
 - [ ] With the Letter of Challenge (H. Blades) 2 and if you have cleared **Tag Team Tournament- Challenger** at the Arena, you will unlock **Tag Team Tournament- Hero**.
 - [ ] Clear **Tag Team Tournament- Hero** _Without Karol in the party_. Make sure to save before entering the tournament. After clearing the tournament, you will be awarded with Karol's **Small Knight** title. If you do this fight even once with Karol in the party, you will not be able to obtain the title on this playthrough unless you load an older save files. If you don't have Karol and Raven in the Active Party, you will fight them in **Tag Team Tournament- Hero** (PS3 and Definitive Edition)
 - [ ] In Heliord, go down to the Lower Section and talk to Witcher. Barrelow X will be modified which unlocks Karol's second Mystic Artes, **Mega Flashbang Ultra X Bomber** (PS3 and Definitive Edition)
