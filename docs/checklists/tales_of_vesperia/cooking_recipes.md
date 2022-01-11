@@ -1,13 +1,17 @@
 # Tales of Vesperia
+
 - Source: [How to Unlock All Cooking Recipes](https://steamcommunity.com/sharedfiles/filedetails/?id=1621018067)
 
 ## Table of Contents
+
 - [Learn All Cooking Recipes](#learn-all-recipes)
 - [Master All Cooking Recipes](#master-all-recipes)
 - [Miscellaneous Cooking Goals](#other-cooking-goals)
 
 ## Learn All Recipes
+
 ### Discoveries
+
 - [ ] Rice Ball: Make Sandwich with Estelle.
 - [ ] Beef Bowl: Make Rice Bowl with Yuri.
 - [ ] Omelette Rice: Make Beef Bowl with Karol.
@@ -32,10 +36,11 @@
 - [ ] Steak: Make Salisbury Steak with Flynn.
 - [ ] Beef Stew: Make Cream Stew with Flynn.
 - [ ] Pork Miso Stew: Make Vichyssoise with Estelle.
-- [ ] Udon Noodles Hot Pot: Make Pork Miso Stew with Yuri. 
+- [ ] Udon Noodles Hot Pot: Make Pork Miso Stew with Yuri.
 - [ ] Fruit Parfait: Make Crepe with Rita.
 
 ### Wonder Chef
+
 - [ ] Salisbury Steak: Aspio. Near the side entrance.
 - [ ] Sorbet: Capua Nor. From the crossroads by the inn, go down the path to the right.
 - [ ] Fried Chicken and Fries: Capua Torim. Near the lighthouse.
@@ -50,6 +55,7 @@
 - [ ] Crepe: Aurnion. East side of the town.
 
 ### Other
+
 - [ ] Sandwich: Obtained automatically through the course of the story.
 - [ ] Seafood Bowl: After unlocking the Fiertia, speak to the woman outside of the inn in Capua Nor.
 - [ ] Seafood Stew: *sidequest*
@@ -103,5 +109,6 @@ Master all recipes on a single character.
 - [ ] Vichyssoise
 
 ## Other Cooking Goals
+
 - [ ] Cook 600 times.
 - [ ] Master 3 recipes with Patty.
