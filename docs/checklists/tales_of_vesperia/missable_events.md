@@ -295,6 +295,7 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] Enter the city and Yuri will learn **Final Gale** from Flynn (Sword Friend).
 - [ ] Toward the left of the blastia when Repede is at least level 60 to get Repede's **Tough Hound** title (Tough Hound).
 - [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits).
+- [ ] Enter Aurnion and you will get Raven's **Shining Star** title if Raven has at least 100 Skills (Encouragement Of The Schwann Team Part 1).
 
 #### Zaphias
 - [ ] Check the fountain for a scene.
@@ -336,7 +337,6 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] In Yumanju, you can get the Hotspring Series titles (Hotspring Part 3)
 - [ ] After (Tough Hound), sleep at King Of Adventure twice to get Repede's **Shining Fang**, **Order of the Loyal Hound** and Repede's **Ultimate Dog Warrior** title (King Of Adventure Final Part)
 - [ ] In Aurnion, find Drake at NW for Yuri's **Certified Soldier** title (Estelle's Teacher Part 5)
-- [ ] Enter Aurnion and you will get Raven's **Shining Star** title if Raven has at least 100 Skills (Encouragement Of The Schwann Team Part 1)
 - [ ] In Aurnion, speak with the Doctor in the inn. Reenter the inn and speak with the Doctor again. Speak with the Man that is near the inn Owner. Once your party have healed at least 4000000 HPs, toward the inn for Estelle's **Dedicated Paramedic** title (Dedicated Paramedic)
 - [ ] In Aurnion, if you have done (Estelle's Teacher Part 5) then talk to Drake at NE for Flynn's **Ideal Commandant** title (PS3 and Definitive Edition)
 - [ ] In Aurnion, find Drake at NE for Estelle's **Worldly Adventurer** title (Estelle's Teacher Part 6)
@@ -380,16 +380,16 @@ Sicily will set your party a number of tasks to perform "motivational" acts.
 - [ ] Back track out to meet with Hisca and Chastel. They will give the **Sword Of Prayer Rag Querion** to Flynn.
 
 ### Judith's Brionac Sidequest
-> **NOTE:** Kouli's guide **warned** us to not exit Aurnion until the scene with Kaufman. From my playthrough, I need to exit out of Aurnion and reenter to trigger the scene.
-- [ ] At the center of Aurnion, there is a Barrier Blastia. Set Rita as the On Screen Character and check the Barrier Blastia from the right twice to name it **Maria** (Brionac Part 4)
-- [ ] Rest at the inn for a scene between Rita and Judith. Rita will name the keepsake **Juana** (Study Of Hermes Final Part)
-- [ ] Lastly, rest at the inn again for a scene between the party and Kaufman
-- [ ] You may now exit out and go to Caer Bocram. Go north and enter the most right house for Judith's Brionac. In the PS3 and Definitive Edition, Brionac is in the NW House.
+- [ ] At the center of Aurnion, there is a broken barrier blastia. Set Rita as the on-screen character and check the blastia from the right twice to name it **Maria** (Brionac Part 4).
+- [ ] Rest at the inn for a scene between Rita and Judith. Rita will name the keepsake **Juana** (Study Of Hermes Final Part).
+- [ ] Lastly, rest at the inn again for a scene between the party and Kaufman.
+- [ ] Head to Caer Bocram. Go north and enter the most right house for Judith's Brionac. In the PS3 and Definitive Edition, Brionac is in the NW House.
 
 ### Repede's Dog Map Sidequest
-> **NOTE:** If the Aurnion scene are not being triggered, you must camp at more **fields** (do not be misled by the Dog Map's progress bar). Refer to the field's name at the top right of the party menu screen whenever you're on the world map.
-- [ ] In Dahngrest, talk to the cat by the western entrance/exit. In Aurnion, head toward the west when you have completed 85% of the Dog Map. You will get the **Pork Chop** attachment and Little Wolf's territories will not expand anymore (Dog Map Part 2)
-- [ ] In Zaphias, talk to the dog near the Save Point when you have completed 95% of the Dog Map. You will get Repede's **Great Boss** title (Dog Map Final Part)
+**Note:** If the Aurnion scenes are not being triggered, you must camp at more **fields** (do not be misled by the Dog Map's progress bar). Refer to the field's name at the top right of the party menu screen whenever you're on the world map.  
+
+- [ ] In Dahngrest, talk to the cat by the western entrance/exit. In Aurnion, head toward the west when you have completed 85% of the Dog Map. You will get the **Pork Chop** attachment and Little Wolf's territories will not expand anymore (Dog Map Part 2).
+- [ ] In Zaphias, talk to the dog near the Save Point when you have completed 95% of the Dog Map. You will get Repede's **Great Boss** title (Dog Map Final Part).
 
 ## After Tarqaron Rises
 - [ ] In Aurnion, you can find Agueron at NW. Talk to him and hand over raw materials to him for a total of three times. To make him reappear after each handover, sleep at the inn few times and reenter Aurnion. After the third time, sleep few times and reenter Aurnion. You will get the **King's Cape** (Development Of Aurnion)
