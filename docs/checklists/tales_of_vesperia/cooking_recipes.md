@@ -46,7 +46,7 @@
 - [ ] Curry: Mantaic. On the path leading to the oasis, behind a knight on the right.
 - [ ] Croquette: Yormgen. Inside the inn.
 - [ ] Cream Stew: Myorzo. Bottom right of the town.
-- [ ] Vichyssoise: Nam Cobanda. Behind the ticket exchange.
+- [ ] Vichyssoise: Nam Cobanda. Behind the premiums counter.
 - [ ] Crepe: Aurnion. East side of the town.
 
 ### Other
