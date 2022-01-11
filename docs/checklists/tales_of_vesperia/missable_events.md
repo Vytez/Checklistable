@@ -300,6 +300,7 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 #### Zaphias
 - [ ] Check the fountain for a scene.
 - [ ] Approach the sitting bench on the right side in the Public Quarter for a scene with Lune (Dark Enforcer Final Part).
+- [ ] Rest at Yuri's room for **Letter of Challenge (Flynn)**.
 - [ ] Enter the inn for Patty's **Amazing Chef** title.
 
 #### Heliord
@@ -318,9 +319,8 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] Sail to the west of the Manor of the Wicked to find a harvest point. Check it to get the **Leoluca** for Patty.
 
 #### Nordopolica
-- [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end (PS3 and Definitive Edition)
-- [ ] If you talk to the left Receptionist at the Arena, you can enter the **Tag Team Tournament- Challenger** (PS3 and Definitive Edition)
-- [ ] Enter Aurnion for the **Letter of Challenge (Flynn)** (Rest at Yuri's Room in Zaphias for the PS3 and Definitive Edition). If you have cleared (Golden Soldier) and (Avenging Soldiers Final Part), you have three out of the four Invitations now (Arena Final Part)
+- [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end.
+- [ ] If you talk to the left Receptionist at the Arena, you can enter the **Tag Team Tournament - Challenger**.
 
 - [ ] In Capua Nor, you can find Nan if you have completed 100% of the Monster Book. You will get Karol's **Manly Man** title (Monster Book Final Part)
 - [ ] In Capua Torim, talk to the Sailor near the slide. Patty will learn **Critical Moment** (PS3 and Definitive Edition)
