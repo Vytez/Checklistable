@@ -297,6 +297,10 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] Rest at the inn for a scene between the Spirits (Conversation between the Spirits).
 - [ ] Enter Aurnion and you will get Raven's **Shining Star** title if Raven has at least 100 Skills (Encouragement Of The Schwann Team Part 1).
 
+#### Open World
+- [ ] Sail to the west of Nordopolica to find a harvest point. Check it to earn Patty's **Head-turner** title.
+- [ ] Sail to the west of the Manor of the Wicked to find a harvest point. Check it to get the **Leoluca** for Patty.
+
 #### Zaphias
 - [ ] Check the fountain for a scene.
 - [ ] Approach the sitting bench on the right side in the Public Quarter for a scene with Lune (Dark Enforcer Final Part).
@@ -313,10 +317,6 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 
 #### Keiv Moc
 - [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title.
-
-#### Open World
-- [ ] Sail to the west of Nordopolica to find a harvest point. Check it to earn Patty's **Head-turner** title.
-- [ ] Sail to the west of the Manor of the Wicked to find a harvest point. Check it to get the **Leoluca** for Patty.
 
 #### Nordopolica
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end.
