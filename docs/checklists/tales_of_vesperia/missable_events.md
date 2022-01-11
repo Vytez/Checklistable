@@ -308,13 +308,14 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 #### Halure
 - [ ] Enter Halure (Under The Tree Final Part).
 - [ ] Head toward the tree and speak with a mage on the way if your party has inflicted over 60,000,000 damage in total. You will get Rita's **Seeker** title (Seeker).
-- [ ] Talk to Sicily near the inn to start **(Joke Weapons)[#joke-weapons-sidequest]**.
+- [ ] Talk to Sicily near the inn to start (Joke Weapons)[#joke-weapons-sidequest].
 
 #### Keiv Moc
 - [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title. With the Letter of Challenge (H. Blades) and if you have cleared (Avenging Soldiers Final Part) previously, you may clear the 100 Man Melee and get the reward. Be sure to clear 100 Man Melee with at least three characters since it is one of the conditions to unlock 200 Man Melee (Golden Soldier).
 
 #### Open World
-- [ ] Sail to the west of the Manor of the Wicked to find a Harvest Point. Check it to get the **Leoluca** for Patty (PS3)
+- [ ] Sail to the west of Nordopolica to find a harvest point. Check it to earn Patty's **Head-turner** title.
+- [ ] Sail to the west of the Manor of the Wicked to find a harvest point. Check it to get the **Leoluca** for Patty.
 
 #### Nordopolica
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end (PS3 and Definitive Edition)
@@ -383,7 +384,7 @@ Sicily will set your party a number of tasks to perform "motivational" acts.
 - [ ] At the center of Aurnion, there is a broken barrier blastia. Set Rita as the on-screen character and check the blastia from the right twice to name it **Maria** (Brionac Part 4).
 - [ ] Rest at the inn for a scene between Rita and Judith. Rita will name the keepsake **Juana** (Study Of Hermes Final Part).
 - [ ] Lastly, rest at the inn again for a scene between the party and Kaufman.
-- [ ] Head to Caer Bocram. Go north and enter the most right house for Judith's Brionac. In the PS3 and Definitive Edition, Brionac is in the NW House.
+- [ ] Head to Caer Bocram. Go north and enter the northwestern house for Judith's Brionac.
 
 ### Repede's Dog Map Sidequest
 **Note:** If the Aurnion scenes are not being triggered, you must camp at more **fields** (do not be misled by the Dog Map's progress bar). Refer to the field's name at the top right of the party menu screen whenever you're on the world map.  
