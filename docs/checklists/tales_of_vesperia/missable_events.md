@@ -312,7 +312,7 @@ Throughout Aurnion there are many sidequests that may or may not trigger dependi
 - [ ] Talk to Sicily near the inn to start (Joke Weapons)[#joke-weapons-sidequest].
 
 #### Keiv Moc
-- [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title. With the Letter of Challenge (H. Blades) and if you have cleared (Avenging Soldiers Final Part) previously, you may clear the 100 Man Melee and get the reward. Be sure to clear 100 Man Melee with at least three characters since it is one of the conditions to unlock 200 Man Melee (Golden Soldier).
+- [ ] Enter Keiv Moc to get **Letter of Challenge (H. Blades)** and Karol's **Golden Soldier** title.
 
 #### Open World
 - [ ] Sail to the west of Nordopolica to find a harvest point. Check it to earn Patty's **Head-turner** title.
