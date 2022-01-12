@@ -374,7 +374,8 @@ At this point in the game there are many sidequests that may or may not trigger 
 
 #### Heliord (3)
 
-- [ ] In Heliord, go down to the Lower Section. Find Sicily by the river for **Murakumo** if Repede is above Level 50. You will get this together with Repede's Joke Weapon at Halure after fulfilling Repede's motivational sidequest if you miss the scene (Professor Sicily Part 5).
+- [ ] Go down to the lower section. Find Sicily by the river for **Murakumo** if Repede is above Level 50. You will get this together with Repede's Joke Weapon at Halure after fulfilling Repede's motivational sidequest if you miss the scene (Professor Sicily Part 5).
+- [ ] Go down to the Lower Section and talk to Witcher. Barrelow X will be modified which unlocks Karol's second mystic arte, **Mega Flashbang Ultra X Bomber**.
 
 #### Halure
 
@@ -403,19 +404,20 @@ At this point in the game there are many sidequests that may or may not trigger 
 
 - [ ] Talk to the receptionist, then talk to each of your party members to get the spa series of titles.
 
+#### Yormgen (2)
+
+- [ ] Check the red box (Illusion).
+- [ ] Speak with the butler of the nobles. Enter the Blade Rifts of Zopheir from the west and you will see the Micro Circuit. Report back and the male characters will get their Swimsuit Series titles.
+- [ ] Talk to the butler again and go to Halure. Go west and talk to Giovanni near the fountain for the Super Aer Conductor. Report back and the female characters will get their Swimsuit Seies titles.
+
 #### Nordopolica (Colosseum)
 
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end.
 - [ ] If you talk to the left Receptionist at the Arena, you can enter the **Tag Team Tournament - Challenger**.
-
-
-
 - [ ] With the Letter of Challenge (H. Blades) 2 and if you have cleared **Tag Team Tournament- Challenger** at the Arena, you will unlock **Tag Team Tournament- Hero**.
 - [ ] Clear **Tag Team Tournament- Hero** _Without Karol in the party_. Make sure to save before entering the tournament. After clearing the tournament, you will be awarded with Karol's **Small Knight** title. If you do this fight even once with Karol in the party, you will not be able to obtain the title on this playthrough unless you load an older save files. If you don't have Karol and Raven in the Active Party, you will fight them in **Tag Team Tournament- Hero** (PS3 and Definitive Edition)
-- [ ] In Heliord, go down to the Lower Section and talk to Witcher. Barrelow X will be modified which unlocks Karol's second Mystic Artes, **Mega Flashbang Ultra X Bomber** (PS3 and Definitive Edition)
-- [ ] After obtaining all recipes from Wonder Chef and unlocking recipes, go to the Port in Nordopolica to talk to Wonder Chef for **Mabo Curry recipe** and the **Cooking Match Invitation**. Go to Dahngrest to enter The Bistro Black Hole. The participant should have **MASTERED** every HP/TP Recovery recipes and at least Three Stars for the other recipes. That will win you the Cooking Series titles (Cooking Battle)
-- [ ] In Yormgen, check the Red Box (Illusion)
-- [ ] In Yormgen, speak with the Butler of the Nobles. Enter the Zopheir Rift from the west and you will see the Micro Circuit. Report back and the male characters will get their Swimsuit Series titles. Talk to the Butler and go to Halure. Go west and talk to Giovanni near the Fountain for the Super Aer Board. Report back and the female characters will get their Swimsuit Seies titles (PS3 and Definitive Edition)
+
+
 - [ ] Go to Mt Temza and head to the third area for Judith's **Sundering Moon** (Judith's Sundering Moon Final Part)
 - [ ] Fly to the Yurzorea Continent East and enter the rock formation for the Sorcerer Ring Level 5 (Fell Arms Part 6)
 - [ ] After (Tough Hound), sleep at King Of Adventure twice to get Repede's **Shining Fang**, **Order of the Loyal Hound** and Repede's **Ultimate Dog Warrior** title (King Of Adventure Final Part)
@@ -438,12 +440,18 @@ At this point in the game there are many sidequests that may or may not trigger 
 - [ ] Go to Yumanju and speak with the Man at the upper left for the Tiara. Check the upper left Toy Machine in Yumanju for three statues. Go to Zaphias and speak with Hanks for one more statue. For the last six statues, you get them through the Toy Machines in the Gym of Nam Cobanda Isle. There is one statue each from 10 Chip Machine and 500 Chip Machine then two statues each from 100 Chip Machine and 50 Chip Machine. With all the statues, report back to the Man in Yumanju for Yuri's **Recollection Guardian** title (Favorite Toys Final Part)
 - [ ] In Nam Cobanda Isle, speak with the Ant Lion near the entrance/exit after you have done (Favorite Toys Final Part). If you have opened up 445 (86%) Treasure Boxes, you will get Yuri's Treasure Hunter title (Treasure Hunter)
 
-
 ### Necropolis of Nostalgia
  - [ ] At the first area, **Firmament**, you can find Flynn's Fell Weapon **Seven-Branched Blade** at the NW of the 8F. At the second area, **Existence**, you can find Patty's Fell Weapon **Corbis** at the SE of 9F. After beating **Ohma**, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
 
+### Cooking Battle
+
+- [ ] After obtaining all recipes from Wonder Chef and unlocking recipes, go to the Port in Nordopolica to talk to Wonder Chef for **Mabo Curry recipe** and the **Cooking Match Invitation**.
+- [ ] Go to Dahngrest to enter The Bistro Black Hole. The participant should have **mastered** all HP/TP Recovery recipes and at least three Stars for the other recipes. That will win you the Cooking Series titles (Cooking Battle).
+
 ### Joke Weapons Sidequest
-Sicily will set your party a number of tasks to perform "motivational" acts. 
+
+Sicily will set your party a number of tasks to perform "motivational" acts.
+
 - [ ] Yuri: Get a combo of 200 hits or more in any battle.
 - [ ] Estelle: Get 35 Grade or more in any one battle.
 - [ ] Karol: Run away from 50 or more battles.
