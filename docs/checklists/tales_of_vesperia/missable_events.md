@@ -427,7 +427,6 @@ At this point in the game there are many sidequests that may or may not trigger 
 - [ ] With the Letter of Challenge (H. Blades) 2 and if you have cleared **Tag Team Tournament- Challenger** at the Arena, you will unlock **Tag Team Tournament- Hero**.
 - [ ] Clear **Tag Team Tournament- Hero** _Without Karol in the party_. Make sure to save before entering the tournament. After clearing the tournament, you will be awarded with Karol's **Small Knight** title. If you do this fight even once with Karol in the party, you will not be able to obtain the title on this playthrough unless you load an older save files. If you don't have Karol and Raven in the Active Party, you will fight them in **Tag Team Tournament- Hero** (PS3 and Definitive Edition)
 
-
 - [ ] In Aurnion, find Drake at NW for Yuri's **Certified Soldier** title (Estelle's Teacher Part 5)
 - [ ] In Aurnion, speak with the Doctor in the inn. Reenter the inn and speak with the Doctor again. Speak with the Man that is near the inn Owner. Once your party have healed at least 4000000 HPs, toward the inn for Estelle's **Dedicated Paramedic** title (Dedicated Paramedic)
 - [ ] In Aurnion, if you have done (Estelle's Teacher Part 5) then talk to Drake at NE for Flynn's **Ideal Commandant** title (PS3 and Definitive Edition)
@@ -444,11 +443,13 @@ At this point in the game there are many sidequests that may or may not trigger 
 - [ ] Later, when you have completed 100% of the Collector's Book, head toward the fountain at the west in Halure. You will get Limits Bottle and Estelle's Item Mania title. Make sure you at least activate the part in Aspio NOW because you are JUST before the deadline (Collector's Book Final Part)
 
 **FAVORITE TOYS SIDEQUEST NOTE:** For PS3 and Definitive Edition, you need to wait until Flynn joins the party permanently for Hanks to show up in Zaphias.
+
 - [ ] Go to Yumanju and speak with the Man at the upper left for the Tiara. Check the upper left Toy Machine in Yumanju for three statues. Go to Zaphias and speak with Hanks for one more statue. For the last six statues, you get them through the Toy Machines in the Gym of Nam Cobanda Isle. There is one statue each from 10 Chip Machine and 500 Chip Machine then two statues each from 100 Chip Machine and 50 Chip Machine. With all the statues, report back to the Man in Yumanju for Yuri's **Recollection Guardian** title (Favorite Toys Final Part)
 - [ ] In Nam Cobanda Isle, speak with the Ant Lion near the entrance/exit after you have done (Favorite Toys Final Part). If you have opened up 445 (86%) Treasure Boxes, you will get Yuri's Treasure Hunter title (Treasure Hunter)
 
 ### Necropolis of Nostalgia
- - [ ] At the first area, **Firmament**, you can find Flynn's Fell Weapon **Seven-Branched Blade** at the NW of the 8F. At the second area, **Existence**, you can find Patty's Fell Weapon **Corbis** at the SE of 9F. After beating **Ohma**, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
+
+- [ ] At the first area, **Firmament**, you can find Flynn's Fell Weapon **Seven-Branched Blade** at the NW of the 8F. At the second area, **Existence**, you can find Patty's Fell Weapon **Corbis** at the SE of 9F. After beating **Ohma**, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
 
 ### Cooking Battle
 
@@ -470,6 +471,7 @@ Sicily will set your party a number of tasks to perform "motivational" acts.
 - [ ] Patty: Synthesize 200 or more items.
 
 ### Sword Dancer Sidequest (PS3 and Definitive Edition)
+
 - [ ] Enter Capua Nor and talk to **Hisca and Chastel** from _Tales of Vesperia: The First Strike_ movie.
 - [ ] Enter the Aer Krene that is at the SE of Weasand Of Cados and explore deeper to reach Sunken Grotto. At the end of the dungeon, approach the center to fight the Sword Dancer.
 - [ ] Exit out and enter the Aer Krene at the south of Zaphias. Repeat like the above for another battle with the Sword Dancer.
@@ -478,18 +480,21 @@ Sicily will set your party a number of tasks to perform "motivational" acts.
 - [ ] Back track out to meet with Hisca and Chastel. They will give the **Sword Of Prayer Rag Querion** to Flynn.
 
 ### Judith's Brionac Sidequest
+
 - [ ] At the center of Aurnion, there is a broken barrier blastia. Set Rita as the on-screen character and check the blastia from the right twice to name it **Maria** (Brionac Part 4).
 - [ ] Rest at the inn for a scene between Rita and Judith. Rita will name the keepsake **Juana** (Study Of Hermes Final Part).
 - [ ] Lastly, rest at the inn again for a scene between the party and Kaufman.
 - [ ] Head to Caer Bocram. Go north and enter the northwestern house for Judith's Brionac.
 
 ### Repede's Dog Map Sidequest
+
 **Note:** If the Aurnion scenes are not being triggered, you must camp at more **fields** (do not be misled by the Dog Map's progress bar). Refer to the field's name at the top right of the party menu screen whenever you're on the world map.  
 
 - [ ] In Dahngrest, talk to the cat by the western entrance/exit. In Aurnion, head toward the west when you have completed 85% of the Dog Map. You will get the **Pork Chop** attachment and Little Wolf's territories will not expand anymore (Dog Map Part 2).
 - [ ] In Zaphias, talk to the dog near the Save Point when you have completed 95% of the Dog Map. You will get Repede's **Great Boss** title (Dog Map Final Part).
 
 ## After Tarqaron Rises
+
 - [ ] In Aurnion, you can find Agueron at NW. Talk to him and hand over raw materials to him for a total of three times. To make him reappear after each handover, sleep at the inn few times and reenter Aurnion. After the third time, sleep few times and reenter Aurnion. You will get the **King's Cape** (Development Of Aurnion)
 - [ ] In Developed Aurnion, speak with Ioder at the west to get Estelle's **Blue Crystal Rod** (Estelle's Teacher Final Part)
 - [ ] In Developed Aurnion, arrange the Warehouse for Special Gel, Strange Piece, Spring Of Knowledge, 2000 Gald and Karol's **Warehouse Master** title (Tidy Up The Warehouse Final Part)
@@ -500,13 +505,16 @@ Sicily will set your party a number of tasks to perform "motivational" acts.
 - [ ] Before facing Duke, exit Tarqaron using the unlocked lift. In Zaphias, speak with Ted near the Fountain for Yuri's **Claiomh Solais**. Yuri will get **Hope Of The Town** title and in PS3 and Definitive Edition, both Yuri and Flynn will get **Hope Of The Town** title (Hope Of The Town)
 
 ### Dual Mystic Artes
+
 After (Hope Of The Town), Yuri and Flynn can now do their Dual Mystic Artes, **Twin Wave**.
+
 - [ ] Yuri uses **Guardian Field** and **Azure Edge** at least 200 times each.
 - [ ] Flynn uses **Guardian Field** and **Demon Fang** at least 200 times each.
 
 During battle, make sure both Yuri and Flynn are in OVL 4. Use either Yuri or Flynn and perform Arcane/Altered/Burst Arte while holding down the **Attack, Artes and Defend buttons** to execute the Dual Mystic Artes.
 
 ## After Beating Duke (Post Game)
+
 - [ ] In Phaeroh's Crag, approach the Phantom Rift and visit Yormgen. Speak with the Sage in the NW House. Head to Dahngrest and exit out. Fly toward the south of Yumanju and you will discover the **Labyrinth of Memories**. Gather **15 Fake Galds** to meet **Traitor to Heaven (Kratos from Tales of Symphonia)**. Defeat him to receive **Letter of Challenge (Legend)** which will unlock **The Mysterious 200 Man Melee** if you have cleared 100 Man Melee with at least three characters (Extra Dungeon Final Part)
 - [ ] Unlock 200 Man Melee and if you have cleared **Tag Team Tournament- Hero**, you will unlock **Tag Team Tournament- Savage**. Clear it for **Limit Octet** (PS3 and Definitive Edition)
 - [ ] If you have completed all Secret Missions in the same playthrough, speak with Flynn in Aurnion for Yuri's **True Knight** title. In the PS3 and Definitive Edition, you need to sleep at the inn instead (True Knight)
