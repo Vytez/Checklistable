@@ -364,6 +364,12 @@ At this point in the game there are many sidequests that may or may not trigger 
 
 - [ ] Sail to the west of Nordopolica to find a harvest point. Check it to earn Patty's **Head-turner** title.
 - [ ] Sail to the west of the Manor of the Wicked to find a harvest point. Check it to get the **Leoluca** for Patty.
+- [ ] Fly to the eastern section of the Yurzorea continent and enter the rock formation for the Sorcerer Ring Level 5 (Fell Arms Part 6).
+
+#### King of Adventure
+
+- [ ] After earning Repede's **Tough Hound** title, sleep at King of Adventure to get Repede's **Shining Fang** arte.
+- [ ] Sleep at King of Adventure again to get **Order of the Loyal Hound** and Repede's **Ultimate Dog Warrior** title.
 
 #### Zaphias (4)
 
@@ -410,6 +416,10 @@ At this point in the game there are many sidequests that may or may not trigger 
 - [ ] Speak with the butler of the nobles. Enter the Blade Rifts of Zopheir from the west and you will see the Micro Circuit. Report back and the male characters will get their Swimsuit Series titles.
 - [ ] Talk to the butler again and go to Halure. Go west and talk to Giovanni near the fountain for the Super Aer Conductor. Report back and the female characters will get their Swimsuit Seies titles.
 
+#### Mt. Temza (2)
+
+- [ ] Go to Mt. Temza and head to the third area for Judith's **Sundering Moon** (Judith's Sundering Moon Final Part).
+
 #### Nordopolica (Colosseum)
 
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end.
@@ -418,9 +428,6 @@ At this point in the game there are many sidequests that may or may not trigger 
 - [ ] Clear **Tag Team Tournament- Hero** _Without Karol in the party_. Make sure to save before entering the tournament. After clearing the tournament, you will be awarded with Karol's **Small Knight** title. If you do this fight even once with Karol in the party, you will not be able to obtain the title on this playthrough unless you load an older save files. If you don't have Karol and Raven in the Active Party, you will fight them in **Tag Team Tournament- Hero** (PS3 and Definitive Edition)
 
 
-- [ ] Go to Mt Temza and head to the third area for Judith's **Sundering Moon** (Judith's Sundering Moon Final Part)
-- [ ] Fly to the Yurzorea Continent East and enter the rock formation for the Sorcerer Ring Level 5 (Fell Arms Part 6)
-- [ ] After (Tough Hound), sleep at King Of Adventure twice to get Repede's **Shining Fang**, **Order of the Loyal Hound** and Repede's **Ultimate Dog Warrior** title (King Of Adventure Final Part)
 - [ ] In Aurnion, find Drake at NW for Yuri's **Certified Soldier** title (Estelle's Teacher Part 5)
 - [ ] In Aurnion, speak with the Doctor in the inn. Reenter the inn and speak with the Doctor again. Speak with the Man that is near the inn Owner. Once your party have healed at least 4000000 HPs, toward the inn for Estelle's **Dedicated Paramedic** title (Dedicated Paramedic)
 - [ ] In Aurnion, if you have done (Estelle's Teacher Part 5) then talk to Drake at NE for Flynn's **Ideal Commandant** title (PS3 and Definitive Edition)
